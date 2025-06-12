@@ -12,8 +12,8 @@ I am a PhD Candidate in <a href="https://cogsci.ucmerced.edu/graduate-programs/p
 My research interests include consciousness science, philosophy of mind, and artificial intelligence.
 I use experimental, philosophical, and computational approaches.
 My current research projects include:
-1. [Measuring conscious contents using EEG complexity](/project/2025-05-08-Detecting-differences-in-conscious-contents-using-EEG-complexity-measures)
-2. [Philosophical analysis of integrated information theory (IIT)](/project/2025-06-06-Integrated-information-theory-(IIT)-and-the-testability-of-the-silent-neuron-predictions)
+1. Measuring conscious contents using EEG complexity: [here](/project/2025-05-08-Detecting-differences-in-conscious-contents-using-EEG-complexity-measures) and [here](project/2022-05-27-Simulating-the-perturbational-complexity-index-at-the-edge-of-chaos)
+2. Philosophical analysis of integrated information theory (IIT): [here](/project/2025-06-06-Integrated-information-theory-(IIT)-and-the-testability-of-the-silent-neuron-predictions) and [here](project/2025-06-07-Does-phenomenology-support-the-axiomatic-framework-of-integrated-information-theory-(IIT))
 3. [Testing IIT using transcranial magnetic stimulation](/project/2025-06-08-Does-brain-activity-cause-consciousness-a-tms-experiment)
 4. Societal impacts of conscious AI
 
