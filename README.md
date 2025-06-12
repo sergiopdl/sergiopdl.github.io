@@ -1,4 +1,4 @@
-# Sergio Ponce de Leon's Academic Website
+# Sergio Ponce de Leon's personal website
 
 This is the source code for my personal academic website, built with [AcademicPages](https://github.com/academicpages/academicpages.github.io), a Jekyll-based template for GitHub Pages.
 
