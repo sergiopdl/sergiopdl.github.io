@@ -45,15 +45,15 @@
 
     {% elsif post.collection == 'projects' %}
       {% if post.funding_pending %}
-        <p><u>Status</u>: [under review for funding] at <i>{{ post.venue }}</i></p>
+        <p><u>Publication status</u>: [under review for funding] at <i>{{ post.venue }}</i></p>
       {% elsif post.in_preparation %}
-        <p><u>Status</u>: (in preparation)</p>
+        <p><u>Publication status</u>: (in preparation)</p>
       {% elsif post.submitted %}
-        <p><u>Status</u>: (submitted) at <i>{{ post.venue }}</i></p>
+        <p><u>Publication status</u>: (submitted) at <i>{{ post.venue }}</i></p>
       {% elsif post.in_review %}
-        <p><u>Status</u>: [under review] at <i>{{ post.venue }}</i></p>
+        <p><u>Publication status</u>: [under review] at <i>{{ post.venue }}</i></p>
       {% elsif post.ipa %}
-        <p><u>Status</u>: (in-principle acceptance) at <i>{{ post.venue }}</i></p>
+        <p><u>Publication status</u>: (in-principle acceptance) at <i>{{ post.venue }}</i></p>
       {% endif %}
 
     {% elsif post.date %}
@@ -95,13 +95,13 @@
     {% endif %}
 
     {% if post.funding_awarded %}
-      <p><u>Funding</u>: {{ post.funding_awarded }}</p>
+      <p><u>Funding status</u>: {{ post.funding_awarded }}</p>
     {% endif %}
     {% if post.talks %}
-      <p><u>Talks</u>: {{ post.talks }}</p>
+      <p><u>Talks presented</u>: {{ post.talks }}</p>
     {% endif %}
     {% if post.posters %}
-      <p><u>Poster presentations</u>: {{ post.posters }}</p>
+      <p><u>Posters presented</u>: {{ post.posters }}</p>
     {% endif %}
 
   </article>

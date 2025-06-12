@@ -41,15 +41,15 @@ layout: default
 
         {% elsif page.collection == 'projects' %}
           {% if page.funding_pending %}
-            <p><u>Status</u>: [under review for funding] at <i>{{ page.venue }}</i></p>
+            <p><u>Publication status</u>: [under review for funding] at <i>{{ page.venue }}</i></p>
           {% elsif page.in_preparation %}
-            <p><u>Status</u>: (in preparation)</p>
+            <p><u>Publication status</u>: (in preparation)</p>
           {% elsif page.submitted %}
-            <p><u>Status</u>: (submitted) at <i>{{ page.venue }}</i></p>
+            <p><u>Publication status</u>: (submitted) at <i>{{ page.venue }}</i></p>
           {% elsif page.in_review %}
-            <p><u>Status</u>: [under review] at <i>{{ page.venue }}</i></p>
+            <p><u>Publication status</u>: [under review] at <i>{{ page.venue }}</i></p>
           {% elsif page.ipa %}
-            <p><u>Status</u>: (in-principle acceptance) at <i>{{ page.venue }}</i></p>
+            <p><u>Publication status</u>: (in-principle acceptance) at <i>{{ page.venue }}</i></p>
           {% endif %}
 
         {% elsif page.venue and page.date %}
@@ -90,13 +90,13 @@ layout: default
         {{ content }}
 
         {% if page.funding_awarded %}
-          <p><u>Funding</u>: {{ page.funding_awarded }}</p>
+          <p><u>Funding status</u>: {{ page.funding_awarded }}</p>
         {% endif %}
         {% if page.talks %}
-          <p><u>Talks</u>: {{ page.talks }}</p>
+          <p><u>Talks presented</u>: {{ page.talks }}</p>
         {% endif %}
         {% if page.posters %}
-          <p><u>Poster presentations</u>: {{ page.posters }}</p>
+          <p><u>Posters presented</u>: {{ page.posters }}</p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
