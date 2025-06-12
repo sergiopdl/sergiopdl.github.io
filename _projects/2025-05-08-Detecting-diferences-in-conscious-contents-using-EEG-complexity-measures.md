@@ -14,7 +14,7 @@ submitted:
 in_review:
 ipa: true
 funding_awarded: "<ul><li>Initiative: <a href='https://www.cos.io/consciousness' target='_blank'>Funding Consciousness Research with Registered Reports</a></li>
-<li>Funder: <a href='https://www.templetonworldcharity.org/' target='_blank'>Templeton World Charity Foundation</a> / <a href='https://www.cos.io/' target='_blank'>Center for Open Science</a> / <a href='https://theassc.org/' target='_blank'>ASSC</a></li>
+<li>Funding organization: <a href='https://www.templetonworldcharity.org/' target='_blank'>Templeton World Charity Foundation</a> / <a href='https://www.cos.io/' target='_blank'>Center for Open Science</a> / <a href='https://theassc.org/' target='_blank'>ASSC</a></li>
 <li>Amount: $31,932 USD</li></ul>"
 talks: "University of California, Los Angeles, Department of Psychology (MontiLab) (December 11, 2023)"
 posters: "<ul><li>The Association for the Scientific Study of Consciousness 26, New York, NY (June 23 – 25, 2023) (<b>awarded 2nd place </b>in the student poster competition)</li>
