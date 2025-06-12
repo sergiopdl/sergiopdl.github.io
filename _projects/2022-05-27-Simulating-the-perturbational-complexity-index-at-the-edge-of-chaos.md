@@ -14,7 +14,7 @@ submitted:
 in_review:
 ipa:
 funding_awarded:
-talks:
+talks: "University of California, Merced, Department of Cognitive and Information Sciences Annual Project Mini-Conference (May 9, 2022)"
 posters:
 ---
 Many objective measures of consciousness have been proposed, but the perturbational complexity index (PCI) has proven uniquely reliable within subjects and across levels of consciousness. Meanwhile, prior work with reservoir networks shows that to exhibit sophisticated information processing capabilities, network dynamics should stay close to a boundary between order and chaos. Mounting evidence is also showing that conscious cortical electrodynamics are poised near such a boundary, but there is no work examining PCI in this context. In this study, we built a binary reservoir network to investigate whether PCI also peaks near a corresponding boundary (called a critical point). We found that PCI exhibits an inverse U-shaped relationship with chaoticity, with values maximal when network dynamics are situated near this critical point, and we present possible explanations for these findings in the context of how PCI is operationalized. Contrary to related work, however, we also found that Lempel-Ziv complexity (LZc) does not exhibit an inverse U-shaped relationship nor peak near a corresponding critical point. We suggest that LZc alone may misrepresent the degree to which a system's activation dynamics correspond with those of a conscious brain. We conclude with a discussion of limitations of this study and opportunities for future work, such as employing alternative computational techniques and replicating the study in models that are more neurally representative.
