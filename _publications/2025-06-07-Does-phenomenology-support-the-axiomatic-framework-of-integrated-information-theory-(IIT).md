@@ -2,7 +2,7 @@
 title: "Does phenomenology support the axiomatic framework of integrated information theory (IIT)"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-12-31-Does-phenomenology-support-the-axiomatic-framework-of-integrated-information-theory-(IIT)
+permalink: /publication/2025-06-07-Does-phenomenology-support-the-axiomatic-framework-of-integrated-information-theory-(IIT)
 excerpt: "In this paper, we first review how IIT’s axiomatic framework has evolved through the latest version (4.0), and why the theory takes such an approach.
 We then analyze this approach through Husserlian phenomenology."
 date: 2025-06-07
