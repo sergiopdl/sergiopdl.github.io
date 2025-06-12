@@ -38,22 +38,26 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% if post.collection == 'teaching' %}
+      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% elsif post.collection == 'publications' %}
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 
-        {% elsif post.collection == 'publications' and post.suppress_published_in != true%}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' and post.suppress_published_in == true%}
-          <p><i>{{ post.venue }}</i></p>
+    {% elsif post.collection == 'projects' %}
+      {% if post.funding_pending %}
+        <p><u>Status</u>: [under review for funding] at <i>{{ post.venue }}</i></p>
+      {% elsif post.in_preparation %}
+        <p><u>Status</u>: (in preparation)</p>
+      {% elsif post.submitted %}
+        <p><u>Status</u>: (submitted) at <i>{{ post.venue }}</i></p>
+      {% elsif post.in_review %}
+        <p><u>Status</u>: [under review] at <i>{{ post.venue }}</i></p>
+      {% elsif post.ipa %}
+        <p><u>Status</u>: (in-principle acceptance) at <i>{{ post.venue }}</i></p>
+      {% endif %}
 
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% elsif post.date %}
+     <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
@@ -71,7 +75,7 @@
     {% elsif post.citation and post.bibtexurl %}
       <p>Citation: {{ post.citation }}<br /><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation %}
-      <p>Citation: {{ post.citation }}</p>
+      <!-- <p>Citation: {{ post.citation }}</p> -->
     {% elsif post.paperurl and post.bibtexurl %}
       <p><a href=" {{ post.paperurl }} ">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.paperurl %}
@@ -82,6 +86,22 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% endif %}
+
+    {% if post.excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+
+    {% if post.funding_awarded %}
+      <p><u>Funding</u>: {{ post.funding_awarded }}</p>
+    {% endif %}
+    {% if post.talks %}
+      <p><u>Talks</u>: {{ post.talks }}</p>
+    {% endif %}
+    {% if post.posters %}
+      <p><u>Poster presentations</u>: {{ post.posters }}</p>
     {% endif %}
 
   </article>

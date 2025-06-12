@@ -36,9 +36,21 @@ layout: default
 
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'publications' %}
+          <p>Published in <i>{{ page.venue }}</i></p>
 
-        {% elsif page.collection == 'publications' and page.suppress_published_in%}
-          <p><i>{{ page.venue }}</i></p>
+        {% elsif page.collection == 'projects' %}
+          {% if page.funding_pending %}
+            <p><u>Status</u>: [under review for funding] at <i>{{ page.venue }}</i></p>
+          {% elsif page.in_preparation %}
+            <p><u>Status</u>: (in preparation)</p>
+          {% elsif page.submitted %}
+            <p><u>Status</u>: (submitted) at <i>{{ page.venue }}</i></p>
+          {% elsif page.in_review %}
+            <p><u>Status</u>: [under review] at <i>{{ page.venue }}</i></p>
+          {% elsif page.ipa %}
+            <p><u>Status</u>: (in-principle acceptance) at <i>{{ page.venue }}</i></p>
+          {% endif %}
 
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -49,8 +61,6 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {{ content }}
-
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
           <p style="font-size: smaller"> {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}
@@ -75,6 +85,18 @@ layout: default
           <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.bibtexurl %}
           <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+        {% endif %}
+
+        {{ content }}
+
+        {% if page.funding_awarded %}
+          <p><u>Funding</u>: {{ page.funding_awarded }}</p>
+        {% endif %}
+        {% if page.talks %}
+          <p><u>Talks</u>: {{ page.talks }}</p>
+        {% endif %}
+        {% if page.posters %}
+          <p><u>Poster presentations</u>: {{ page.posters }}</p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}

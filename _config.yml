@@ -85,6 +85,11 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Project Category - The following the list of project categories and their headings
+project_category:
+  all:
+    title: 'All Projects'
+
 # Teaching Category - The following the list of teaching categories and their headings
 teaching_category:
   tas:
@@ -233,6 +238,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -290,6 +299,15 @@ defaults:
       author_profile: true
       share: true
 
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
