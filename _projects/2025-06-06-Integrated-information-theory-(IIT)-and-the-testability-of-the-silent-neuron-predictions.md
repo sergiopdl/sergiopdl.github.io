@@ -4,7 +4,7 @@ collection: projects
 category: all
 permalink: /project/2025-06-06-Integrated-information-theory-(IIT)-and-the-testability-of-the-silent-neuron-predictions
 excerpt: "In this paper, we provide a detailed analysis of IIT's two silent neuron predictions, showing how they can in fact be tested, contra Bartlett (2022).
-In the final section of the paper, we distinguish between two ways of explaining one of the predictions.
+In the final section of the paper, we also distinguish between two ways of explaining one of the predictions.
 By drawing on the work of Imre Lakatos, we conclude with a discussion of how the distinction between the two explanations sheds light on why it is so difficult to resolve theoretical disputes about consciousness.
 Despite these difficulties, we provide a framework that can lead to concrete progress."
 date: 2025-06-06

@@ -4,7 +4,7 @@ collection: projects
 category: all
 permalink: /project/2025-06-07-Does-phenomenology-support-the-axiomatic-framework-of-integrated-information-theory-(IIT)
 excerpt: "In this paper, we first review how IIT’s axiomatic framework has evolved through the latest version (4.0), and why the theory takes such an approach.
-We then analyze this approach through Husserlian phenomenology."
+We then analyze this approach through the lens of Husserlian phenomenology, finding support for both IIT's axiomatic approach in general, and for all of IIT's individual axioms."
 date: 2025-06-07
 venue:
 citation:
