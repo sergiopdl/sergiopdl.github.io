@@ -85,10 +85,16 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-# Project Category - The following the list of project categories and their headings
+# ADDED Project Category - The following the list of project categories and their headings
 project_category:
-  all:
-    title: 'All Projects'
+  empirical:
+    title: 'Empirical Projects'
+  philosophical:
+    title: 'Philosophical Projects'
+  computational:
+    title: 'Computational Projects'
+  talks:
+    title: 'Talks'
 
 # Teaching Category - The following the list of teaching categories and their headings
 teaching_category:

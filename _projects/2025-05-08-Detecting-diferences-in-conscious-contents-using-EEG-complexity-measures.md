@@ -1,7 +1,7 @@
 ---
 title: "Detecting differences in conscious contents using EEG complexity measures"
 collection: projects
-category: all
+category: empirical
 permalink: /project/2025-05-08-Detecting-differences-in-conscious-contents-using-EEG-complexity-measures
 excerpt: 'In this study, we measure participants’ neurophysiological (EEG), subjective, and behavioral responses in states of normal wakefulness to visual and auditory stimuli that vary in granularity of subjective characteristics, such as meaningfulness.
 This study advances our understanding of consciousness by clarifying the relationship between stimulus complexity and measures of brain complexity and phenomenology.'
@@ -16,9 +16,8 @@ ipa: true
 funding_awarded: "<ul><li>Initiative: <a href='https://www.cos.io/consciousness' target='_blank'>Funding Consciousness Research with Registered Reports</a></li>
 <li>Funding organization: <a href='https://www.templetonworldcharity.org/' target='_blank'>Templeton World Charity Foundation</a> / <a href='https://www.cos.io/' target='_blank'>Center for Open Science</a> / <a href='https://theassc.org/' target='_blank'>ASSC</a></li>
 <li>Amount awarded: $31,932 USD</li></ul>"
-talks: "University of California, Los Angeles, Department of Psychology (MontiLab) (December 11, 2023)"
-posters: "<ul><li>The Association for the Scientific Study of Consciousness 26, New York, NY (June 23 – 25, 2023) (<b>awarded 2nd place </b>in the student poster competition)</li>
-<li>The 9th Science Factory: TMS–EEG Summer School and Workshop in Espoo, Finland (May 27 – June 2, 2023)</li></ul>"
+talks:
+posters:
 ---
 Measuring consciousness has been a longstanding problem. Even though behavioral responses are commonly used, converging evidence indicates that behavioral responsiveness and behavioral reports about consciousness dissociate from consciousness per se. Measures of complexity applied to brain activity, such as Lempel-Ziv complexity (LZc) and the perturbational complexity index (PCI), have been shown to discriminate between levels of consciousness, but less of this work has been done in the context of conscious content. To address many of the limitations of previous work, in this study we measure participants’ neurophysiological (EEG), subjective, and behavioral responses in states of normal wakefulness to visual and auditory stimuli that vary in granularity of subjective characteristics, such as meaningfulness. Two novel aspects of our study are that some of the visual and auditory stimuli are manipulated such that on most initial trials they are unrecognizable, but on some subsequent trials, they become recognizable. This allows us to measure changes in EEG complexity that correspond to differences in phenomenology alone while completely controlling for stimulus complexity. In addition, we are assessing if any of five dimensions of subjective ratings correlate with any differences in EEG complexity. This study advances our understanding of consciousness by clarifying the relationship between stimulus complexity and measures of brain complexity and phenomenology.
 

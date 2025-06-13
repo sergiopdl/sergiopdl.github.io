@@ -1,7 +1,7 @@
 ---
 title: "Does brain activity cause consciousness? A TMS experiment"
 collection: projects
-category: all
+category: empirical
 permalink: /project/2025-06-08-Does-brain-activity-cause-consciousness-a-tms-experiment
 excerpt: "The goal of this project is to study whether the neurons in your brain need to be spiking for you to be conscious.
 Answering this question has major public health consequences for administering anesthesia, treating people with brain injuries, and understanding what happens in the brain during near-death experiences."
@@ -14,7 +14,7 @@ submitted:
 in_review:
 ipa:
 funding_awarded: "<ul><li>Initiative: <a href='https://mindscience.org/brainstorm/' target='_blank'>BrainStorm Neuroscience Pitch Competition</a><b> Semi-finalist</b></li>
-<li>Funding organization: <a href='https://mindscience.org/' target='_blank'>Mind Science</a></li>"
+<li>Funding organization: <a href='https://mindscience.org/' target='_blank'>Mind Science</a></li></ul>"
 talks:
 posters:
 ---

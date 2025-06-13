@@ -1,7 +1,7 @@
 ---
 title: "Simulating the perturbational complexity index at the edge of chaos"
 collection: projects
-category: all
+category: computational
 permalink: /project/2022-05-27-Simulating-the-perturbational-complexity-index-at-the-edge-of-chaos
 excerpt: 'In this study, we built a binary reservoir network to investigate whether the perturbational complexity index (PCI) peaks near a boundary between order and chaos.
 We found that PCI exhibits an inverse U-shaped relationship with chaoticity, with values maximal when network dynamics are situated near this critical point, and we present possible explanations for these findings in the context of how PCI is operationalized. Contrary to related work, however, we found that Lempel-Ziv complexity did not exhibit an inverse U-shaped relationship nor peak near a corresponding critical point.'

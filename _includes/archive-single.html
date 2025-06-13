@@ -43,7 +43,7 @@
     {% elsif post.collection == 'publications' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 
-    {% elsif post.collection == 'projects' %}
+    {% elsif post.collection == 'projects' %}                                   <!-- ADDED -->
       {% if post.funding_pending %}
         <p><u>Publication status</u>: [under review for funding] at <i>{{ post.venue }}</i></p>
       {% elsif post.in_preparation %}
@@ -94,7 +94,7 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.funding_awarded %}
+    {% if post.funding_awarded %}                                               <!-- ADDED -->
       <p><u>Funding status</u>: {{ post.funding_awarded }}</p>
     {% endif %}
     {% if post.talks %}
@@ -103,6 +103,8 @@
     {% if post.posters %}
       <p><u>Posters presented</u>: {{ post.posters }}</p>
     {% endif %}
+    <!-- {% include category-list.html page=post %}
+    <p>{{ post.categories | inspect }}</p>                               -->
 
   </article>
 </div>

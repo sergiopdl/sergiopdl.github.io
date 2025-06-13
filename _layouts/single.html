@@ -39,7 +39,7 @@ layout: default
         {% elsif page.collection == 'publications' %}
           <p>Published in <i>{{ page.venue }}</i></p>
 
-        {% elsif page.collection == 'projects' %}
+        {% elsif page.collection == 'projects' %}                               <!-- ADDED -->
           {% if page.funding_pending %}
             <p><u>Publication status</u>: [under review for funding] at <i>{{ page.venue }}</i></p>
           {% elsif page.in_preparation %}
@@ -89,7 +89,7 @@ layout: default
 
         {{ content }}
 
-        {% if page.funding_awarded %}
+        {% if page.funding_awarded %}                                           <!-- ADDED -->
           <p><u>Funding status</u>: {{ page.funding_awarded }}</p>
         {% endif %}
         {% if page.talks %}
