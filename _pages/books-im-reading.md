@@ -1,5 +1,5 @@
 ---
-permalink: /books-im-reading
+permalink: /books-im-reading/
 title: "Books I'm reading"
 author_profile: true
 ---
@@ -90,7 +90,6 @@ author_profile: true
   <li><a href="https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930" target="_blank">Outliers: The Story of Success</a> (Malcolm Gladwell)</li>
   <li><a href="https://www.amazon.com/Astrophysics-People-Hurry-Neil-deGrasse/dp/0393609391" target="_blank">Astrophysics for People in a Hurry</a> (Neil deGrasse Tyson)</li>
   <li><a href="https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310" target="_blank">Homo Deus: A History of Tomorrow</a> (Yuval Noah Harari)</li>
-
   <li><a href="https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189" target="_blank">Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</a> (Christopher McDougall)</li>
   <li><a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095" target="_blank">Sapiens: A Brief History of Humankind</a> (Yuval Noah Harari)</li>
   <li><a href="https://www.amazon.com/Zero-Maker-Learn-Enough-Anything/dp/1449356435" target="_blank">Zero to Maker: Learn (Just Enough) to Make (Just About) Anything</a> (David Lang)</li>
