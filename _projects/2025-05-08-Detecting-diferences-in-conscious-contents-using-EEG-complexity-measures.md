@@ -1,7 +1,8 @@
 ---
 title: "Detecting differences in conscious contents using EEG complexity measures"
 collection: projects
-category: empirical
+categories:
+  - empirical
 permalink: /project/2025-05-08-Detecting-differences-in-conscious-contents-using-EEG-complexity-measures
 excerpt: 'In this study, we measure participants’ neurophysiological (EEG), subjective, and behavioral responses in states of normal wakefulness to visual and auditory stimuli that vary in granularity of subjective characteristics, such as meaningfulness.
 This study advances our understanding of consciousness by clarifying the relationship between stimulus complexity and measures of brain complexity and phenomenology.'

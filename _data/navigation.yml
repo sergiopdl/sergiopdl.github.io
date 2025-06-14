@@ -14,6 +14,12 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Travels"
+    url: /travels/
+
+  - title: "Books I'm reading"
+    url: /books-im-reading/
+
   # - title: "Talks"
   #   url: /talks/
 
@@ -26,7 +32,10 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "CV"
+  - title: "About"
+    url: /about/
+
+  - title: "CV (PDF)"
     url: /cv/
 
   # - title: "CV"

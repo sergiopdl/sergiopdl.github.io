@@ -73,7 +73,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;                                                      /* EDITED, WAS: underline */
 
     &:hover {
       text-decoration: underline;
@@ -255,7 +255,6 @@
   .sep {
     display: none;
   }
-  // @extend .page__meta;                                                          // ADDED 
 
   strong {
     margin-right: 10px;
@@ -272,7 +271,7 @@
   border-radius: $border-radius;
 
   &:hover {
-    text-decoration: none;
+    text-decoration: none !important;                                           /* ADDED "!important" */
     color: var(--global-link-color-hover);
   }
 }

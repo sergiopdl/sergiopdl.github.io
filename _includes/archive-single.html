@@ -95,7 +95,7 @@
     {% endif %}
 
     {% if post.funding_awarded %}                                               <!-- ADDED -->
-      <p><u>Funding status</u>: {{ post.funding_awarded }}</p>
+      <p><u>Funding</u>: {{ post.funding_awarded }}</p>
     {% endif %}
     {% if post.talks %}
       <p><u>Talks presented</u>: {{ post.talks }}</p>
@@ -103,8 +103,9 @@
     {% if post.posters %}
       <p><u>Posters presented</u>: {{ post.posters }}</p>
     {% endif %}
-    <!-- {% include category-list.html page=post %}
-    <p>{{ post.categories | inspect }}</p>                               -->
+    <footer class="page__meta">
+      {% include category-list-archive.html %}
+    </footer>
 
   </article>
 </div>

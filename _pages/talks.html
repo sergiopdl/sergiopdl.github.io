@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks and presentations"
-permalink: /talks/
+permalink: /categories/talks/
 author_profile: true
 ---
 
@@ -11,6 +11,18 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% assign filtered_projects = site.projects | where_exp: "item", "item.categories contains 'talks'" %}
+
+{% if site.project_category %}
+  {% assign title_shown = false %}
+  {% for post in filtered_projects reversed %}
+    {% unless title_shown %}
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  {% for post in filtered_projects reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

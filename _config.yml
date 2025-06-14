@@ -243,8 +243,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-  projects:
+  projects:                                                                     # ADDED
     output: true
     permalink: /:collection/:path/
 
@@ -336,6 +335,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  # - jekyll-archives                                                             # ADDED
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -358,22 +358,25 @@ whitelist:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
+  type: liquid                                                                  # "jekyll-archives" EDITED, was "liquid"
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
+# jekyll-archives:                                                                # EDITED, UNCOMMENTED
 #   enabled:
 #     - categories
 #     - tags
+#     - collection_projects                                                       # ADDED
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
+#     collection_projects: archive-taxonomy                                       # ADDED
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+#     collection_projects: /projects/:name/                                       # ADDED
 
 
 # HTML Compression

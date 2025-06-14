@@ -1,7 +1,8 @@
 ---
 title: "Effects of EEG reference electrode selection on visual oddball experiments"
 collection: projects
-category: empirical
+categories:
+  - empirical
 permalink: /project/2021-12-14-Effects-of-EEG-reference-electrode-selection-on-visual-oddball-experiments
 excerpt: 'The purpose of this study was to investigate whether the selection of two common EEG reference methods (average-reference and mastoids-reference) had any measurable effects on event-related potentials (ERPs) evoked during a canonical visual oddball experiment.
 Although it was predicted based on prior studies that a P3 ERP effect would be observed in the target condition for both reference-selection methods, a trending P3 effect was only observed using the mastoids-reference method.'

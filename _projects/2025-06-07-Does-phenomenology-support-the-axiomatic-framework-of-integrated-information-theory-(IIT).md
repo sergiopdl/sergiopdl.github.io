@@ -1,7 +1,8 @@
 ---
 title: "Does phenomenology support the axiomatic framework of integrated information theory (IIT)"
 collection: projects
-category: philosophical
+categories:
+  - philosophical
 permalink: /project/2025-06-07-Does-phenomenology-support-the-axiomatic-framework-of-integrated-information-theory-(IIT)
 excerpt: "In this paper, we first review how IIT’s axiomatic framework has evolved through the latest version (4.0), and why the theory takes such an approach.
 We then analyze this approach through the lens of Husserlian phenomenology, finding support for both IIT's axiomatic approach in general, and for all of IIT's individual axioms."
@@ -15,7 +16,7 @@ in_review:
 ipa:
 funding_awarded:
 talks:
-posters: "Association for the Scientific Study of Consciousness 28, Heraklion, Crete (July 6 – 9, 2025) (pending)"
+posters: "<i>Association for the Scientific Study of Consciousness 28</i>, Heraklion, Crete (July 6 – 9, 2025) (pending)"
 header:
   teaser: "project_2025-06-07_1.png"
 ---
