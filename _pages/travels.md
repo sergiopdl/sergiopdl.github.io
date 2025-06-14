@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 <h2>Upcoming</h2>
-Catch me if you can!
 <ul>
   <li>July 6th - 9th, 2025: Heraklion, Crete for <a href="https://theassc.org/assc-28/" target="_blank">ASSC 28</a></li>
   <li>July 30th - August 2nd, 2025: San Francisco, CA for <a href="https://cognitivesciencesociety.org/cogsci-2025/" target="_blank">COGSCI 2025</a></li>

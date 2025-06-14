@@ -13,15 +13,19 @@ author_profile: true
 
 <h2>Past</h2>
 <ol>
+  <li><a href="https://www.amazon.com/Neural-Darwinism-Theory-Neuronal-Selection/dp/0465049346" target="_blank">Neural Darwinism: The Theory Of Neuronal Group Selection</a> (Gerald Edelman)</li>
   <li><a href="https://www.amazon.com/Then-Myself-World-Consciousness-Expand/dp/1541602803" target="_blank">Then I Am Myself the World: What Consciousness Is and How to Expand It</a> (Christof Koch)</li>
+  <li><a href="https://www.amazon.com/Embodied-Mind-Cognitive-Science-Experience/dp/0262720213" target="_blank">The Embodied Mind: Cognitive Science and Human Experience</a> (Francisco J. Varela, Evan T. Thompson, and Eleanor Rosch)</li>
   <li><a href="https://www.amazon.com/When-Brains-Dream-Exploring-Mystery/dp/1324002832" target="_blank">When Brains Dream: Exploring the Science and Mystery of Sleep</a> (Antonio Zadra and Robert Stickgold)</li>
   <li><a href="https://www.amazon.com/Caffeine-How-Created-Modern-World/dp/B083MYJXZT" target="_blank">Caffeine: How Caffeine Created the Modern World</a> (Michael Pollan)</li>
   <li><a href="https://www.amazon.com/Immense-World-Animal-Senses-Reveal/dp/0593133234" target="_blank">An Immense World: How Animal Senses Reveal the Hidden Realms Around Us</a> (Ed Yong)</li>
   <li><a href="https://www.amazon.com/How-Know-Person-Seeing-Deeply/dp/059323006X" target="_blank">How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen</a> (David Brooks)</li>
   <li><a href="https://www.amazon.com/Theory-Reality-Introduction-Philosophy-Foundations/dp/0226300633" target="_blank">Theory and Reality: An Introduction to the Philosophy of Science (Science and Its Conceptual Foundations series)</a> (Peter Godfrey-Smith)</li>
+  <li><a href="https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567" target="_blank">Gödel, Escher, Bach: An Eternal Golden Braid</a> (Douglas R. Hofstadter)</li>
   <li><a href="https://www.amazon.com/World-Behind-Consciousness-Limits-Science/dp/1982159383" target="_blank">The World Behind the World: Consciousness, Free Will, and the Limits of Science</a> (Erik Hoel)</li>
   <li><a href="https://www.amazon.com/Putting-Ourselves-Back-Equation-Consciousness/dp/0374238766" target="_blank">Putting Ourselves Back in the Equation: Why Physicists Are Studying Human Consciousness and AI to Unravel the Mysteries of the Universe</a> (George Musser)</li>
   <li><a href="https://www.amazon.com/Spooky-Action-Distance-Reimagines-Everything/dp/0374298513" target="_blank">Spooky Action at a Distance: The Phenomenon That Reimagines Space and Time—and What It Means for Black Holes, the Big Bang, and Theories of Everything</a> (George Musser)</li>
+  <li><a href="https://www.amazon.com/Incomplete-Nature-Mind-Emerged-Matter/dp/0393343901" target="_blank">Incomplete Nature: How Mind Emerged from Matter</a> (Terrence W. Deacon)</li>
   <li><a href="https://www.amazon.com/Why-Materialism-Baloney-Skeptics-Everything/dp/1782793623" target="_blank">Why Materialism Is Baloney: How True Skeptics Know There is no Death and Fathom Answers to Life, the Universe and Everything</a> (Bernardo Kastrup)</li>
   <li><a href="https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X" target="_blank">Dopamine Nation: Finding Balance in the Age of Indulgence</a> (Anna Lembke)</li>
   <li><a href="https://www.amazon.com/Bitch-Female-Species-Lucy-Cooke/dp/1541674898" target="_blank">Bitch: On the Female of the Species</a> (Lucy Cooke)</li>

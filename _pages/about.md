@@ -17,4 +17,8 @@ I'm currently a PhD Candidate in <a href="https://cogsci.ucmerced.edu/graduate-p
 When I'm not doing research or reading, I am an avid runner, adventure traveler, and photographer. Stay tuned for my photography portfolio!
 <p><img src="/images/kilimanjaro.png"></p>
 
+[Catch me if you can!](/travels)
+
+[Check out what I'm reading!](/books-im-reading)
+
 Feel free to contact me via <a href="mailto:jponcedeleon@ucmerced.edu?subject=Hello!">email</a>.
