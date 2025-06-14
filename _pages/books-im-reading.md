@@ -75,9 +75,31 @@ author_profile: true
   <li><a href="https://www.amazon.com/Conscious-Brief-Guide-Fundamental-Mystery/dp/0062906712" target="_blank">Conscious: A Brief Guide to the Fundamental Mystery of the Mind</a> (Annaka Harris)</li>
   <li><a href="https://www.amazon.com/Way-We-Eat-Choices-Matter/dp/1598870327" target="_blank">The Way We Eat: Why Our Food Choices Matter</a> (Peter Singer and Jim Mason)</li>
   <li><a href="https://www.amazon.com/Free-Will-Deckle-Edge-Harris/dp/1451683405" target="_blank">Free Will</a> (Sam Harris)</li>
+  <li><a href="https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224897" target="_blank">The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting up a Generation for Failure</a> (Greg Lukianoff and Jonathan Haidt)</li>
+  <li><a href="https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742" target="_blank">Superintelligence: Paths, Dangers, Strategies</a> (Nick Bostrom)</li>
+  <li><a href="https://www.amazon.com/Create-Mind-Secret-Human-Thinking-Revealed/dp/0143124048" target="_blank">How to Create a Mind: The Secret of Human Thought Revealed</a> (Ray Kurzweil)</li>
+  <li><a href="https://www.amazon.com/Distracted-Mind-Ancient-Brains-High-Tech/dp/0262034948" target="_blank">The Distracted Mind: Ancient Brains in a High‑Tech World</a> (Adam Gazzaley and Larry D. Rosen)</li>
+  <li><a href="https://www.amazon.com/How-Change-Your-Mind-Science-Psychedelics/dp/1594204225" target="_blank">How to Change Your Mind: The New Science of Psychedelics</a> (Michael Pollan)</li>
+  <li><a href="https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015CKNWJI" target="_blank">Algorithms to Live By: The Computer Science of Human Decisions</a> (Brian Christian and Tom Griffiths)</li>
+  <li><a href="https://www.amazon.com/Eat-Run-Unlikely-Ultramarathon-Greatness/dp/0544002318" target="_blank">Eat & Run: My Unlikely Journey to Ultramarathon Greatness</a> (Scott Jurek)</li>
+  <li><a href="https://www.amazon.com/Weapons-Math-Destruction-Inequality-Democracy/dp/0553418815" target="_blank">Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</a> (Cathy O'Neil)</li>
+  <li><a href="https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210624" target="_blank">When: The Scientific Secrets of Perfect Timing</a> (Daniel H. Pink)</li>
+  <li><a href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555" target="_blank">Thinking, Fast and Slow</a> (Daniel Kahneman)</li>
+  <li><a href="https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034" target="_blank">How to Win Friends & Influence People</a> (Dale Carnegie)</li>
+  <li><a href="https://www.amazon.com/One-World-Schoolhouse-Education-Reimagined/dp/1455508381" target="_blank">The One World Schoolhouse: Education Reimagined</a> (Salman Khan)</li>
+  <li><a href="https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930" target="_blank">Outliers: The Story of Success</a> (Malcolm Gladwell)</li>
+  <li><a href="https://www.amazon.com/Astrophysics-People-Hurry-Neil-deGrasse/dp/0393609391" target="_blank">Astrophysics for People in a Hurry</a> (Neil deGrasse Tyson)</li>
+  <li><a href="https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310" target="_blank">Homo Deus: A History of Tomorrow</a> (Yuval Noah Harari)</li>
 
-
-  <!-- <li><a href="https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034" target="_blank">How to Win Friends and Influence People</a> (Dale Carnegie)</li>
-  <li><a href="https://www.amazon.com/One-World-Schoolhouse-Education-Reimagined/dp/1455508381" target="_blank">The One World Schoolhouse: Education Reimagined</a> (Salman Khan)</li> -->
-
+  <li><a href="https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189" target="_blank">Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</a> (Christopher McDougall)</li>
+  <li><a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095" target="_blank">Sapiens: A Brief History of Humankind</a> (Yuval Noah Harari)</li>
+  <li><a href="https://www.amazon.com/Zero-Maker-Learn-Enough-Anything/dp/1449356435" target="_blank">Zero to Maker: Learn (Just Enough) to Make (Just About) Anything</a> (David Lang)</li>
+  <li><a href="https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898" target="_blank">The Lean Startup</a> (Eric Ries)</li>
+  <li><a href="https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537" target="_blank">Steve Jobs</a> (Walter Isaacson)</li>
+  <li><a href="https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654" target="_blank">The Design of Everyday Things</a> (Donald A. Norman)</li>
+  <li><a href="https://www.amazon.com/Inside-Steves-Brain-Leander-Kahney/dp/1591845513" target="_blank">Inside Steve's Brain</a> (Leander Kahney)</li>
+  <li><a href="https://www.amazon.com/Omnivores-Dilemma-Natural-History-Four/dp/0143038583" target="_blank">The Omnivore's Dilemma: A Natural History of Four Meals</a> (Michael Pollan)</li>
+  <li><a href="https://www.amazon.com/Zen-Mind-Beginners-Informal-Meditation/dp/1590308492" target="_blank">Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice</a> (Shunryu Suzuki)</li>
+  <li><a href="https://www.amazon.com/Cradle-Making-Things-Way-Make/dp/0865475873" target="_blank">Cradle to Cradle: Remaking the Way We Make Things</a> (William McDonough)</li>
+  <li><a href="https://www.amazon.com/Conversations-God-Uncommon-Dialogue-Book/dp/0399142789" target="_blank">Conversations with God: An Uncommon Dialogue, Book 1</a> (Neale Donald Walsch)</li>
 </ol>

@@ -246,6 +246,9 @@ collections:
   projects:                                                                     # ADDED
     output: true
     permalink: /:collection/:path/
+  pages:                                                                        # ADDED
+    output: true
+    permalink: /:path/
 
 
 # These settings control how pages and collections are included in the site
