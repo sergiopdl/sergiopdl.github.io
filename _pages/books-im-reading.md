@@ -11,10 +11,14 @@ author_profile: true
   <li><a href="https://www.amazon.com/Better-Never-Have-Been-Existence/dp/0199549265" target="_blank">Better Never to Have Been: The Harm of Coming into Existence</a> (David Benatar)</li>
 </ol>
 
-<h2>Past</h2>
+<h2>2025</h2>
 <ol>
   <li><a href="https://www.amazon.com/Neural-Darwinism-Theory-Neuronal-Selection/dp/0465049346" target="_blank">Neural Darwinism: The Theory Of Neuronal Group Selection</a> (Gerald Edelman)</li>
   <li><a href="https://www.amazon.com/Then-Myself-World-Consciousness-Expand/dp/1541602803" target="_blank">Then I Am Myself the World: What Consciousness Is and How to Expand It</a> (Christof Koch)</li>
+</ol>
+
+<h2>2024</h2>
+<ol start="3">
   <li><a href="https://www.amazon.com/Embodied-Mind-Cognitive-Science-Experience/dp/0262720213" target="_blank">The Embodied Mind: Cognitive Science and Human Experience</a> (Francisco J. Varela, Evan T. Thompson, and Eleanor Rosch)</li>
   <li><a href="https://www.amazon.com/When-Brains-Dream-Exploring-Mystery/dp/1324002832" target="_blank">When Brains Dream: Exploring the Science and Mystery of Sleep</a> (Antonio Zadra and Robert Stickgold)</li>
   <li><a href="https://www.amazon.com/Caffeine-How-Created-Modern-World/dp/B083MYJXZT" target="_blank">Caffeine: How Caffeine Created the Modern World</a> (Michael Pollan)</li>
@@ -25,6 +29,10 @@ author_profile: true
   <li><a href="https://www.amazon.com/World-Behind-Consciousness-Limits-Science/dp/1982159383" target="_blank">The World Behind the World: Consciousness, Free Will, and the Limits of Science</a> (Erik Hoel)</li>
   <li><a href="https://www.amazon.com/Putting-Ourselves-Back-Equation-Consciousness/dp/0374238766" target="_blank">Putting Ourselves Back in the Equation: Why Physicists Are Studying Human Consciousness and AI to Unravel the Mysteries of the Universe</a> (George Musser)</li>
   <li><a href="https://www.amazon.com/Spooky-Action-Distance-Reimagines-Everything/dp/0374298513" target="_blank">Spooky Action at a Distance: The Phenomenon That Reimagines Space and Time—and What It Means for Black Holes, the Big Bang, and Theories of Everything</a> (George Musser)</li>
+</ol>
+
+<h2>2023</h2>
+<ol start="13">
   <li><a href="https://www.amazon.com/Incomplete-Nature-Mind-Emerged-Matter/dp/0393343901" target="_blank">Incomplete Nature: How Mind Emerged from Matter</a> (Terrence W. Deacon)</li>
   <li><a href="https://www.amazon.com/Why-Materialism-Baloney-Skeptics-Everything/dp/1782793623" target="_blank">Why Materialism Is Baloney: How True Skeptics Know There is no Death and Fathom Answers to Life, the Universe and Everything</a> (Bernardo Kastrup)</li>
   <li><a href="https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X" target="_blank">Dopamine Nation: Finding Balance in the Age of Indulgence</a> (Anna Lembke)</li>
@@ -36,6 +44,10 @@ author_profile: true
   <li><a href="https://www.amazon.com/Structure-Scientific-Revolutions-50th-Anniversary/dp/0226458121" target="_blank">The Structure of Scientific Revolutions</a> (Thomas S. Kuhn)</li>
   <li><a href="https://www.amazon.com/Clean-Science-Skin-James-Hamblin/dp/0525538313" target="_blank">Clean: The New Science of Skin</a> (James Hamblin)</li>
   <li><a href="https://www.amazon.com/Why-Buddhism-True-Philosophy-Enlightenment/dp/1439195455" target="_blank">Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment</a> (Robert Wright)</li>
+</ol>
+
+<h2>2022</h2>
+<ol start="24">
   <li><a href="https://www.amazon.com/Deep-Freediving-Renegade-Science-Ourselves/dp/0547985525" target="_blank">Deep: Freediving, Renegade Science, and What the Ocean Tells Us about Ourselves</a> (James Nestor)</li>
   <li><a href="https://www.amazon.com/Metazoa-Animal-Life-Birth-Mind/dp/0374207941" target="_blank">Metazoa: Animal Life and the Birth of the Mind</a> (Peter Godfrey‑Smith)</li>
   <li><a href="https://www.amazon.com/Vagina-New-Biography-Naomi-Wolf/dp/0061989169" target="_blank">Vagina: A New Biography</a> (Naomi Wolf)</li>
@@ -48,6 +60,10 @@ author_profile: true
   <li><a href="https://www.amazon.com/Consciousness-Brain-Deciphering-Codes-Thoughts/dp/0143126261" target="_blank">Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts</a> (Stanislas Dehaene)</li>
   <li><a href="https://www.amazon.com/How-Emotions-Are-Made-Secret-Life/dp/1509837493" target="_blank">How Emotions Are Made: The Secret Life of the Brain</a> (Lisa Feldman Barrett)</li>
   <li><a href="https://www.amazon.com/Why-We-Sleep-Unlocking-Power-Dreams/dp/1501144316" target="_blank">Why We Sleep: Unlocking the Power of Sleep and Dreams</a> (Matthew Walker)</li>
+</ol>
+
+<h2>2021</h2>
+<ol start="36">
   <li><a href="https://www.amazon.com/Diving-Bell-Butterfly-Memoir-Death/dp/0375401156" target="_blank">The Diving Bell and the Butterfly: A Memoir of Life in Death</a> (Jean‑Dominique Bauby)</li>
   <li><a href="https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374537194" target="_blank">Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness</a> (Peter Godfrey‑Smith)</li>
   <li><a href="https://www.amazon.com/Who-You-Are-Science-Connectedness/dp/0262043955" target="_blank">Who You Are: The Science of Connectedness</a> (Michael J. Spivey)</li>
@@ -61,6 +77,10 @@ author_profile: true
   <li><a href="https://www.amazon.com/Livewired-Inside-Story-Ever-Changing-Brain/dp/1838850961" target="_blank">Livewired: The Inside Story of the Ever-Changing Brain</a> (David Eagleman)</li>
   <li><a href="https://www.amazon.com/Feeling-Life-Itself-Consciousness-Widespread/dp/0262539551" target="_blank">The Feeling of Life Itself: Why Consciousness Is Widespread but Can't Be Computed</a> (Christof Koch)</li>
   <li><a href="https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977" target="_blank">Lifespan: Why We Age—and Why We Don't Have To</a> (David Sinclair)</li>
+</ol>
+
+<h2>2020</h2>
+<ol start="49">
   <li><a href="https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615" target="_blank">Breath: The New Science of a Lost Art</a> (James Nestor)</li>
   <li><a href="https://www.amazon.com/Signal-Noise-Many-Predictions-Fail/dp/0143125087" target="_blank">The Signal and the Noise: Why So Many Predictions Fail—But Some Don’t</a> (Nate Silver)</li>
   <li><a href="https://www.amazon.com/Fourth-Revolution-Infosphere-Reshaping-Reality/dp/0199606722" target="_blank">The Fourth Revolution: How the Infosphere is Reshaping Human Reality</a> (Luciano Floridi)</li>
@@ -80,15 +100,27 @@ author_profile: true
   <li><a href="https://www.amazon.com/Way-We-Eat-Choices-Matter/dp/1598870327" target="_blank">The Way We Eat: Why Our Food Choices Matter</a> (Peter Singer and Jim Mason)</li>
   <li><a href="https://www.amazon.com/Free-Will-Deckle-Edge-Harris/dp/1451683405" target="_blank">Free Will</a> (Sam Harris)</li>
   <li><a href="https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224897" target="_blank">The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting up a Generation for Failure</a> (Greg Lukianoff and Jonathan Haidt)</li>
+</ol>
+
+<h2>2019</h2>
+<ol start="68">
   <li><a href="https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742" target="_blank">Superintelligence: Paths, Dangers, Strategies</a> (Nick Bostrom)</li>
   <li><a href="https://www.amazon.com/Create-Mind-Secret-Human-Thinking-Revealed/dp/0143124048" target="_blank">How to Create a Mind: The Secret of Human Thought Revealed</a> (Ray Kurzweil)</li>
   <li><a href="https://www.amazon.com/Distracted-Mind-Ancient-Brains-High-Tech/dp/0262034948" target="_blank">The Distracted Mind: Ancient Brains in a High‑Tech World</a> (Adam Gazzaley and Larry D. Rosen)</li>
+</ol>
+
+<h2>2018</h2>
+<ol start="71">
   <li><a href="https://www.amazon.com/How-Change-Your-Mind-Science-Psychedelics/dp/1594204225" target="_blank">How to Change Your Mind: The New Science of Psychedelics</a> (Michael Pollan)</li>
   <li><a href="https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015CKNWJI" target="_blank">Algorithms to Live By: The Computer Science of Human Decisions</a> (Brian Christian and Tom Griffiths)</li>
   <li><a href="https://www.amazon.com/Eat-Run-Unlikely-Ultramarathon-Greatness/dp/0544002318" target="_blank">Eat & Run: My Unlikely Journey to Ultramarathon Greatness</a> (Scott Jurek)</li>
   <li><a href="https://www.amazon.com/Weapons-Math-Destruction-Inequality-Democracy/dp/0553418815" target="_blank">Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</a> (Cathy O'Neil)</li>
   <li><a href="https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210624" target="_blank">When: The Scientific Secrets of Perfect Timing</a> (Daniel H. Pink)</li>
   <li><a href="https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555" target="_blank">Thinking, Fast and Slow</a> (Daniel Kahneman)</li>
+</ol>
+
+<h2>2017</h2>
+<ol start="77">
   <li><a href="https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034" target="_blank">How to Win Friends & Influence People</a> (Dale Carnegie)</li>
   <li><a href="https://www.amazon.com/One-World-Schoolhouse-Education-Reimagined/dp/1455508381" target="_blank">The One World Schoolhouse: Education Reimagined</a> (Salman Khan)</li>
   <li><a href="https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930" target="_blank">Outliers: The Story of Success</a> (Malcolm Gladwell)</li>
@@ -96,13 +128,41 @@ author_profile: true
   <li><a href="https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310" target="_blank">Homo Deus: A History of Tomorrow</a> (Yuval Noah Harari)</li>
   <li><a href="https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189" target="_blank">Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</a> (Christopher McDougall)</li>
   <li><a href="https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095" target="_blank">Sapiens: A Brief History of Humankind</a> (Yuval Noah Harari)</li>
+</ol>
+
+<h2>2013</h2>
+<ol start="84">
   <li><a href="https://www.amazon.com/Zero-Maker-Learn-Enough-Anything/dp/1449356435" target="_blank">Zero to Maker: Learn (Just Enough) to Make (Just About) Anything</a> (David Lang)</li>
+</ol>
+
+<h2>2012</h2>
+<ol start="85">
   <li><a href="https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898" target="_blank">The Lean Startup</a> (Eric Ries)</li>
+</ol>
+
+<h2>2011</h2>
+<ol start="86">
   <li><a href="https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537" target="_blank">Steve Jobs</a> (Walter Isaacson)</li>
+</ol>
+
+<h2>2010</h2>
+<ol start="87">
   <li><a href="https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654" target="_blank">The Design of Everyday Things</a> (Donald A. Norman)</li>
+</ol>
+
+<h2>2008</h2>
+<ol start="88">
   <li><a href="https://www.amazon.com/Inside-Steves-Brain-Leander-Kahney/dp/1591845513" target="_blank">Inside Steve's Brain</a> (Leander Kahney)</li>
   <li><a href="https://www.amazon.com/Omnivores-Dilemma-Natural-History-Four/dp/0143038583" target="_blank">The Omnivore's Dilemma: A Natural History of Four Meals</a> (Michael Pollan)</li>
+</ol>
+
+<h2>2007</h2>
+<ol start="90">
   <li><a href="https://www.amazon.com/Zen-Mind-Beginners-Informal-Meditation/dp/1590308492" target="_blank">Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice</a> (Shunryu Suzuki)</li>
   <li><a href="https://www.amazon.com/Cradle-Making-Things-Way-Make/dp/0865475873" target="_blank">Cradle to Cradle: Remaking the Way We Make Things</a> (William McDonough)</li>
+</ol>
+
+<h2>2005</h2>
+<ol start="92">
   <li><a href="https://www.amazon.com/Conversations-God-Uncommon-Dialogue-Book/dp/0399142789" target="_blank">Conversations with God: An Uncommon Dialogue, Book 1</a> (Neale Donald Walsch)</li>
 </ol>
