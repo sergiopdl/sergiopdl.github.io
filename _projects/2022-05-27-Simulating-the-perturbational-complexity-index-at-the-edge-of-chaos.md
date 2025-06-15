@@ -16,7 +16,7 @@ submitted:
 in_review:
 ipa:
 funding_awarded:
-talks: "<i>University of California, Merced, Department of Cognitive and Information Sciences Annual Project Mini-Conference</i>, Merced, CA (May 9, 2022)"
+talks: "<i>University of California, Merced, Department of Cognitive and Information Sciences Annual Project Mini-Conference</i>, Merced, CA (May 9th, 2022)"
 posters:
 header:
   teaser: "/project_2022-05-27_3.png"
