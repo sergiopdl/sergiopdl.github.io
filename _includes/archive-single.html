@@ -33,15 +33,15 @@
 
     {% elsif post.collection == 'projects' %}                                   <!-- ADDED -->
       {% if post.funding_pending %}
-        <p><u>Publication status</u>: [under review for funding] at <i>{{ post.venue }}</i></p>
+        <p class="no-margin-bottom"><u>Publication status</u>: [under review for funding] at <i>{{ post.venue }}</i></p>
       {% elsif post.in_preparation %}
-        <p><u>Publication status</u>: (in preparation)</p>
+        <p class="no-margin-bottom"><u>Publication status</u>: (in preparation)</p>
       {% elsif post.submitted %}
-        <p><u>Publication status</u>: (submitted) at <i>{{ post.venue }}</i></p>
+        <p class="no-margin-bottom"><u>Publication status</u>: (submitted) at <i>{{ post.venue }}</i></p>
       {% elsif post.in_review %}
-        <p><u>Publication status</u>: [under review] at <i>{{ post.venue }}</i></p>
+        <p class="no-margin-bottom"><u>Publication status</u>: [under review] at <i>{{ post.venue }}</i></p>
       {% elsif post.ipa %}
-        <p><u>Publication status</u>: (in-principle acceptance) at <i>{{ post.venue }}</i></p>
+        <p class="no-margin-bottom"><u>Publication status</u>: (in-principle acceptance) at <i>{{ post.venue }}</i></p>
       {% endif %}
 
     {% elsif post.date %}
@@ -96,13 +96,13 @@
     {% endif %}
 
     {% if post.funding_awarded %}                                               <!-- ADDED -->
-      <p><u>Funding</u>: {{ post.funding_awarded }}</p>
+      <p class="no-margin-top"><u>Funding</u>: {{ post.funding_awarded }}</p>
     {% endif %}
     {% if post.talks %}
-      <p><u>Talks</u>: {{ post.talks }}</p>
+      <p class="no-margin-top"><u>Talks</u>: {{ post.talks }}</p>
     {% endif %}
     {% if post.posters %}
-      <p><u>Posters</u>: {{ post.posters }}</p>
+      <p class="no-margin-top"><u>Posters</u>: {{ post.posters }}</p>
     {% endif %}
     <footer class="page__meta">
       {% include category-list-archive.html %}
