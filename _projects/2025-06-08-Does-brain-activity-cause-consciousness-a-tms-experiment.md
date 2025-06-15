@@ -15,7 +15,7 @@ submitted:
 in_review:
 ipa:
 funding_awarded: "<ul><li>Initiative: <a href='https://mindscience.org/brainstorm/' target='_blank'>BrainStorm Neuroscience Pitch Competition</a><b> Semi-finalist</b></li>
-<li>Funding organization: <a href='https://mindscience.org/' target='_blank'>Mind Science</a></li></ul>"
+<li>Organization: <a href='https://mindscience.org/' target='_blank'>Mind Science</a></li></ul>"
 talks:
 posters:
 header:

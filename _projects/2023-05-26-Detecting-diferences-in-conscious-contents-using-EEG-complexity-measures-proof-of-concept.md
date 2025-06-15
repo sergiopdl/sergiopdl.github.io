@@ -16,7 +16,7 @@ submitted:
 in_review:
 ipa:
 funding_awarded:
-talks: "<ul><li><i>University of California, Los Angeles, Department of Psychology (MontiLab)</i> (December 11, 2023) (*invited)</li>
+talks: "<ul><li><i>University of California, Los Angeles, Department of Psychology (MontiLab)</i> (December 11, 2023) (*<b>invited</b>)</li>
 <li><i>University of California, Merced, Department of Cognitive and Information Sciences Annual Project Mini-Conference</i> (May 8, 2023)</li></ul>"
 posters: "<ul><li><i>Association for the Scientific Study of Consciousness 26</i>, New York, NY (June 23 – 25, 2023) (<b>awarded 2nd place </b>in the student poster competition)</li>
 <li><i>Aalto University School of Science, Department of Neuroscience & Biomedical Engineering 9th Science Factory: TMS–EEG Summer School and Workshop</i> (May 27 – June 2, 2023)</li></ul>"

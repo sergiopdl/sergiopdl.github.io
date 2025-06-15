@@ -14,7 +14,7 @@ submitted:
 in_review:
 ipa:
 funding_awarded:
-talks: "<i>Society for Brain Mapping and Therapeutics 21st Annual World Congress</i> (March 15, 2024) (*invited)"
+talks: "<i>Society for Brain Mapping and Therapeutics 21st Annual World Congress</i> (March 15, 2024) (*<b>invited</b>)"
 posters:
 header:
   teaser:
