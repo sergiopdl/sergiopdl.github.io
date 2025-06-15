@@ -32,8 +32,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "About"
-    url: /about/
+  - title: "About me"
+    url: /about-me/
 
   - title: "CV (PDF)"
     url: /cv/
