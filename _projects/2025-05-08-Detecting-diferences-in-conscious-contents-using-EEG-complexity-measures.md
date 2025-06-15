@@ -21,7 +21,7 @@ funding_awarded: "<ul><li>Initiative: <a href='https://www.cos.io/consciousness'
 talks:
 posters:
 header:
-  teaser: "/project_2025-05-08_1.png"
+  teaser: "/project_2025-05-08_2.png"
 ---
 Measuring consciousness has been a longstanding problem. Even though behavioral responses are commonly used, converging evidence indicates that behavioral responsiveness and behavioral reports about consciousness dissociate from consciousness per se. Measures of complexity applied to brain activity, such as Lempel-Ziv complexity (LZc) and the perturbational complexity index (PCI), have been shown to discriminate between levels of consciousness, but less of this work has been done in the context of conscious content. To address many of the limitations of previous work, in this study we measure participants’ neurophysiological (EEG), subjective, and behavioral responses in states of normal wakefulness to visual and auditory stimuli that vary in granularity of subjective characteristics, such as meaningfulness. Two novel aspects of our study are that some of the visual and auditory stimuli are manipulated such that on most initial trials they are unrecognizable, but on some subsequent trials, they become recognizable. This allows us to measure changes in EEG complexity that correspond to differences in phenomenology alone while completely controlling for stimulus complexity. In addition, we are assessing if any of five dimensions of subjective ratings correlate with any differences in EEG complexity. This study advances our understanding of consciousness by clarifying the relationship between stimulus complexity and measures of brain complexity and phenomenology.
 
