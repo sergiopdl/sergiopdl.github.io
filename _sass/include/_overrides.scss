@@ -1,0 +1,33 @@
+/* ==========================================================================
+   OVERRIDE CLASSES
+   ========================================================================== */
+
+.teaser-excerpt-flex {
+  display: flex;
+  align-items: flex-start; // stretch;
+  gap: 1.0rem;
+}
+
+.teaser-excerpt-flex .excerpt-text {
+  flex: 1;
+}
+
+.teaser-excerpt-flex .excerpt-teaser {
+  display: flex;
+  align-items: flex-start;
+}
+
+.teaser-excerpt-flex .excerpt-teaser img {
+  // max-height: 100%;
+  // max-width: 200px;
+  // object-fit: contain;
+  // display: block;
+  max-width: 200px;
+  height: auto;
+  border-radius: 4px;
+  margin-top: 1.0rem;
+}
+
+.archive__item p:first-of-type {
+  margin-bottom: 0rem;
+}

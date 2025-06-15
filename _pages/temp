@@ -1,0 +1,28 @@
+<div class="teaser-excerpt-flex">
+  <div class="excerpt-text">
+    {{ post.excerpt | markdownify }}
+  </div>
+  {% if teaser %}                                                               <!-- REMOVED include.type == "grid" and -->
+    <div class="excerpt-teaser">                                                <!-- was archive__item-teaser -->
+      <img src=
+        {% if teaser contains "://" %}
+          "{{ teaser }}"
+        {% else %}
+          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="">
+    </div>
+  {% endif %}
+</div>
+
+{% if teaser %}                                                                 <!-- REMOVED include.type == "grid" and -->
+  <div class="archive__item-teaser">
+    <img src=
+      {% if teaser contains "://" %}
+        "{{ teaser }}"
+      {% else %}
+        "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+      {% endif %}
+      alt="">
+  </div>
+{% endif %}

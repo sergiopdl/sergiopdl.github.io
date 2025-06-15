@@ -18,6 +18,8 @@ funding_awarded: "<ul><li>Initiative: <a href='https://mindscience.org/brainstor
 <li>Funding organization: <a href='https://mindscience.org/' target='_blank'>Mind Science</a></li></ul>"
 talks:
 posters:
+header:
+  teaser:
 ---
 Every morning, you wake up, and a world comes into being for you: sights, sounds, feelings of hunger, thoughts about the work you need to do today. Most of the experiences you have, and most of the things you do in the world, ultimately depend on neurons in your brain sending messages to each other, messages that neuroscientists call “spikes”. But while your brain contains around 86 billion neurons, only a small fraction of them are actually sending spikes at any given moment. So what are the rest of the neurons doing? You may even wonder: if all of the neurons in your brain could be spiking at the same time, could you be hearing more sounds, thinking more thoughts, or getting more work done?
 

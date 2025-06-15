@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 <h2>Current</h2>
-<ol>
+<ul>
   <li><a href="https://www.amazon.com.au/Future-Loves-You-Should-Abolish/dp/180206379X" target="_blank">The Future Loves You: How and Why We Should Abolish Death</a> (Ariel Zeleznikow-Johnston)</li>
   <li><a href="https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X" target="_blank">The Book of Why: The New Science of Cause and Effect</a> (Judea Pearl)</li>
   <li><a href="https://www.amazon.com/Better-Never-Have-Been-Existence/dp/0199549265" target="_blank">Better Never to Have Been: The Harm of Coming into Existence</a> (David Benatar)</li>
-</ol>
+</ul>
 
 <h2>2025</h2>
 <ol>
