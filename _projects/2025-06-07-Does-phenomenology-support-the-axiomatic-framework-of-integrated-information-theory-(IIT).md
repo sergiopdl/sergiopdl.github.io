@@ -17,7 +17,7 @@ in_review:
 ipa:
 funding_awarded:
 talks:
-posters: "<i>Association for the Scientific Study of Consciousness 28</i>, Heraklion, Crete (July 6 – 9, 2025) (upcoming)"
+posters: "<i>Association for the Scientific Study of Consciousness 28</i>, Heraklion, Crete (July 6 – 9, 2025) (<a href='/travels'>upcoming</a>)"
 header:
   teaser: "/project_2025-06-07_1.png"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Effects of EEG reference electrode selection on visual oddball experiments"
+title: "Effects of EEG reference-electrode selection on visual oddball experiments"
 collection: projects
 categories:
   - empirical
