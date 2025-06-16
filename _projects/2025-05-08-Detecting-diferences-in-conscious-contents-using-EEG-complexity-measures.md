@@ -1,5 +1,5 @@
 ---
-title: "Detecting differences in conscious contents using EEG complexity measures"
+title: "Detecting differences in conscious contents using EEG complexity measures (Registered Report)"
 collection: projects
 categories:
   - empirical
