@@ -6,13 +6,13 @@ author_profile: true
 
 <h2>Current</h2>
 <ul>
-  <li><a href="https://www.amazon.com.au/Future-Loves-You-Should-Abolish/dp/180206379X" target="_blank">The Future Loves You: How and Why We Should Abolish Death</a> (Ariel Zeleznikow-Johnston)</li>
   <li><a href="https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X" target="_blank">The Book of Why: The New Science of Cause and Effect</a> (Judea Pearl)</li>
   <li><a href="https://www.amazon.com/Better-Never-Have-Been-Existence/dp/0199549265" target="_blank">Better Never to Have Been: The Harm of Coming into Existence</a> (David Benatar)</li>
 </ul>
 
 <h2>2025</h2>
 <ol>
+  <li><a href="https://www.amazon.com.au/Future-Loves-You-Should-Abolish/dp/180206379X" target="_blank">The Future Loves You: How and Why We Should Abolish Death</a> (Ariel Zeleznikow-Johnston)</li>
   <li><a href="https://www.amazon.com/Neural-Darwinism-Theory-Neuronal-Selection/dp/0465049346" target="_blank">Neural Darwinism: The Theory Of Neuronal Group Selection</a> (Gerald Edelman)</li>
   <li><a href="https://www.amazon.com/Then-Myself-World-Consciousness-Expand/dp/1541602803" target="_blank">Then I Am Myself the World: What Consciousness Is and How to Expand It</a> (Christof Koch)</li>
 </ol>

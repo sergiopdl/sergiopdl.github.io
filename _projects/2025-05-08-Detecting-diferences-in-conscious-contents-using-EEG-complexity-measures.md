@@ -17,7 +17,7 @@ in_review:
 ipa: true
 funding_awarded: "<ul><li>Initiative: <a href='https://www.cos.io/consciousness' target='_blank'>Funding Consciousness Research with Registered Reports</a></li>
 <li>Organization: <a href='https://www.templetonworldcharity.org/' target='_blank'>Templeton World Charity Foundation</a> / <a href='https://www.cos.io/' target='_blank'>Center for Open Science</a> / <a href='https://theassc.org/' target='_blank'>ASSC</a></li>
-<li><b>Awarded</b>: $31,932 USD</li></ul>"
+<li><b>Awarded</b>: $31,936 USD</li></ul>"
 talks:
 posters:
 header:
