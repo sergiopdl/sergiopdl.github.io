@@ -12,9 +12,9 @@ author_profile: true
 
 <h2>2025</h2>
 <ol>
-  <li><a href="https://www.amazon.com.au/Future-Loves-You-Should-Abolish/dp/180206379X" target="_blank">The Future Loves You: How and Why We Should Abolish Death</a> (Ariel Zeleznikow-Johnston)</li>
   <li><a href="https://www.amazon.com/Neural-Darwinism-Theory-Neuronal-Selection/dp/0465049346" target="_blank">Neural Darwinism: The Theory Of Neuronal Group Selection</a> (Gerald Edelman)</li>
   <li><a href="https://www.amazon.com/Then-Myself-World-Consciousness-Expand/dp/1541602803" target="_blank">Then I Am Myself the World: What Consciousness Is and How to Expand It</a> (Christof Koch)</li>
+  <li><a href="https://www.amazon.com.au/Future-Loves-You-Should-Abolish/dp/180206379X" target="_blank">The Future Loves You: How and Why We Should Abolish Death</a> (Ariel Zeleznikow-Johnston)</li>
 </ol>
 
 <h2>2024</h2>
