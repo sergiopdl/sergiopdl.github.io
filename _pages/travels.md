@@ -5,14 +5,12 @@ author_profile: true
 ---
 
 <h2>Upcoming</h2>
-<ul>
-  <li>July 6th - 9th, 2025: Heraklion, Crete for <a href="https://theassc.org/assc-28/" target="_blank">ASSC 28</a></li>
-  <li>July 30th - August 2nd, 2025: San Francisco, CA for <a href="https://cognitivesciencesociety.org/cogsci-2025/" target="_blank">COGSCI 2025</a></li>
-
-</ul>
+<ul></ul>
 
 <h2>Past</h2>
 <ul>
+  <li>2025 (July 30th - August 2nd): San Francisco, CA for <a href="https://cognitivesciencesociety.org/cogsci-2025/" target="_blank">COGSCI 2025</a></li>
+  <li>2025 (July 6th - 9th): Heraklion, Crete for <a href="https://theassc.org/assc-28/" target="_blank">ASSC 28</a></li>
   <li>2024 (July 2nd - 5th): Tokyo, Japan for <a href="https://theassc.org/assc-27/" target="_blank">ASSC 27</a></li>
   <li>2024 (March 19th – 23rd): Banyoles, Spain for the <i><a href="https://www.mesec.co/" target="_blank">Mediterranean Society for Consciousness Science</a></i> <a href="https://www.mesec.co/event/winterschool_2024" target="_blank">MESEC Winter School 2024</a></li>
   <li>2023 (September 8th – 17th): Venice, Italy for the <a href="https://www.neurosas.org/" target="_blank"><i>Neuroscience School of Advanced Studies</i></a> Special Advanced Course: Integrated Information Theory of Consciousness</li>
