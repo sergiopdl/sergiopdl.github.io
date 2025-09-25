@@ -5,6 +5,8 @@ categories:
   - empirical
   - talks
   - posters
+  - awarded
+  - invited
 permalink: /project/2023-05-26-Detecting-differences-in-conscious-contents-using-EEG-complexity-measures-proof-of-concept
 excerpt: 'In this proof-of-concept study, we analyzed three existing EEG datasets where 40 participants performed an active face perception task, an active visual oddball task, and a passive auditory oddball task. We computed the perturbational complexity index (PCIst) and Lempel-ziv complexity (LZc) for every trial and analyzed the results using Bayesian mixed-effects models. We found that i) PCIst was higher for meaningful visual stimuli but that LZc could be higher or lower; i) PCIst was higher for rare visual stimuli but LZc was lower; and ili) PCIst was higher for rare auditory stimuli but LZc did not discriminate rare vs. frequent auditory stimuli.'
 date: 2023-05-26

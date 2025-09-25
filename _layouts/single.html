@@ -92,6 +92,9 @@ layout: default
         {% if page.funding_awarded %}                                           <!-- ADDED -->
           <p><u>Funding</u>: {{ page.funding_awarded }}</p>
         {% endif %}
+        {% if page.awards %}
+          <p><u>Awards</u>: {{ page.awards }}</p>
+        {% endif %}
         {% if page.talks %}
           <p><u>Talks</u>: {{ page.talks }}</p>
         {% endif %}

@@ -5,6 +5,7 @@ categories:
   - philosophical
   - talks
   - posters
+  - invited
 permalink: /project/2025-06-06-Integrated-information-theory-(IIT)-and-the-testability-of-the-silent-neuron-predictions
 excerpt: "In this paper, we provide a detailed analysis of IIT's two silent neuron predictions, showing how they can in fact be tested, contra Bartlett (2022).
 In the final section of the paper, we also distinguish between two ways of explaining one of the predictions.
@@ -15,7 +16,7 @@ venue: 'Neuroscience of Consciousness'
 citation:
 funding_pending:
 in_preparation:
-submitted: 
+submitted:
 in_review: true
 ipa:
 funding_awarded:

@@ -98,6 +98,9 @@
     {% if post.funding_awarded %}                                               <!-- ADDED -->
       <p class="no-margin-top"><u>Funding</u>: {{ post.funding_awarded }}</p>
     {% endif %}
+    {% if post.awards %}                                               
+      <p class="no-margin-top"><u>Awards</u>: {{ post.awards }}</p>
+    {% endif %}
     {% if post.talks %}
       <p class="no-margin-top"><u>Talks</u>: {{ post.talks }}</p>
     {% endif %}
