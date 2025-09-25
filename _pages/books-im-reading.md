@@ -13,13 +13,13 @@ author_profile: true
 <h2>2025</h2>
 <ol>
   <li><a href="https://www.amazon.com/Neural-Darwinism-Theory-Neuronal-Selection/dp/0465049346" target="_blank">Neural Darwinism: The Theory Of Neuronal Group Selection</a> (Gerald Edelman)</li>
-  <li><a href="https://www.amazon.com/Then-Myself-World-Consciousness-Expand/dp/1541602803" target="_blank">Then I Am Myself the World: What Consciousness Is and How to Expand It</a> (Christof Koch)<li>
+  <li><a href="https://www.amazon.com/Then-Myself-World-Consciousness-Expand/dp/1541602803" target="_blank">Then I Am Myself the World: What Consciousness Is and How to Expand It</a> (Christof Koch)</li>
   <li><a href="https://www.amazon.com.au/Future-Loves-You-Should-Abolish/dp/180206379X" target="_blank">The Future Loves You: How and Why We Should Abolish Death</a> (Ariel Zeleznikow-Johnston)</li>
   <li><a href="https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X" target="_blank">The Book of Why: The New Science of Cause and Effect</a> (Judea Pearl)</li>
 </ol>
 
 <h2>2024</h2>
-<ol start="3">
+<ol start="5">
   <li><a href="https://www.amazon.com/Embodied-Mind-Cognitive-Science-Experience/dp/0262720213" target="_blank">The Embodied Mind: Cognitive Science and Human Experience</a> (Francisco J. Varela, Evan T. Thompson, and Eleanor Rosch)</li>
   <li><a href="https://www.amazon.com/When-Brains-Dream-Exploring-Mystery/dp/1324002832" target="_blank">When Brains Dream: Exploring the Science and Mystery of Sleep</a> (Antonio Zadra and Robert Stickgold)</li>
   <li><a href="https://www.amazon.com/Caffeine-How-Created-Modern-World/dp/B083MYJXZT" target="_blank">Caffeine: How Caffeine Created the Modern World</a> (Michael Pollan)</li>
@@ -33,7 +33,7 @@ author_profile: true
 </ol>
 
 <h2>2023</h2>
-<ol start="13">
+<ol start="15">
   <li><a href="https://www.amazon.com/Incomplete-Nature-Mind-Emerged-Matter/dp/0393343901" target="_blank">Incomplete Nature: How Mind Emerged from Matter</a> (Terrence W. Deacon)</li>
   <li><a href="https://www.amazon.com/Why-Materialism-Baloney-Skeptics-Everything/dp/1782793623" target="_blank">Why Materialism Is Baloney: How True Skeptics Know There is no Death and Fathom Answers to Life, the Universe and Everything</a> (Bernardo Kastrup)</li>
   <li><a href="https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X" target="_blank">Dopamine Nation: Finding Balance in the Age of Indulgence</a> (Anna Lembke)</li>
@@ -48,7 +48,7 @@ author_profile: true
 </ol>
 
 <h2>2022</h2>
-<ol start="24">
+<ol start="26">
   <li><a href="https://www.amazon.com/Deep-Freediving-Renegade-Science-Ourselves/dp/0547985525" target="_blank">Deep: Freediving, Renegade Science, and What the Ocean Tells Us about Ourselves</a> (James Nestor)</li>
   <li><a href="https://www.amazon.com/Metazoa-Animal-Life-Birth-Mind/dp/0374207941" target="_blank">Metazoa: Animal Life and the Birth of the Mind</a> (Peter Godfrey‑Smith)</li>
   <li><a href="https://www.amazon.com/Vagina-New-Biography-Naomi-Wolf/dp/0061989169" target="_blank">Vagina: A New Biography</a> (Naomi Wolf)</li>
@@ -64,7 +64,7 @@ author_profile: true
 </ol>
 
 <h2>2021</h2>
-<ol start="36">
+<ol start="38">
   <li><a href="https://www.amazon.com/Diving-Bell-Butterfly-Memoir-Death/dp/0375401156" target="_blank">The Diving Bell and the Butterfly: A Memoir of Life in Death</a> (Jean‑Dominique Bauby)</li>
   <li><a href="https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374537194" target="_blank">Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness</a> (Peter Godfrey‑Smith)</li>
   <li><a href="https://www.amazon.com/Who-You-Are-Science-Connectedness/dp/0262043955" target="_blank">Who You Are: The Science of Connectedness</a> (Michael J. Spivey)</li>
@@ -81,7 +81,7 @@ author_profile: true
 </ol>
 
 <h2>2020</h2>
-<ol start="49">
+<ol start="51">
   <li><a href="https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615" target="_blank">Breath: The New Science of a Lost Art</a> (James Nestor)</li>
   <li><a href="https://www.amazon.com/Signal-Noise-Many-Predictions-Fail/dp/0143125087" target="_blank">The Signal and the Noise: Why So Many Predictions Fail—But Some Don’t</a> (Nate Silver)</li>
   <li><a href="https://www.amazon.com/Fourth-Revolution-Infosphere-Reshaping-Reality/dp/0199606722" target="_blank">The Fourth Revolution: How the Infosphere is Reshaping Human Reality</a> (Luciano Floridi)</li>
@@ -104,14 +104,14 @@ author_profile: true
 </ol>
 
 <h2>2019</h2>
-<ol start="68">
+<ol start="70">
   <li><a href="https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742" target="_blank">Superintelligence: Paths, Dangers, Strategies</a> (Nick Bostrom)</li>
   <li><a href="https://www.amazon.com/Create-Mind-Secret-Human-Thinking-Revealed/dp/0143124048" target="_blank">How to Create a Mind: The Secret of Human Thought Revealed</a> (Ray Kurzweil)</li>
   <li><a href="https://www.amazon.com/Distracted-Mind-Ancient-Brains-High-Tech/dp/0262034948" target="_blank">The Distracted Mind: Ancient Brains in a High‑Tech World</a> (Adam Gazzaley and Larry D. Rosen)</li>
 </ol>
 
 <h2>2018</h2>
-<ol start="71">
+<ol start="73">
   <li><a href="https://www.amazon.com/How-Change-Your-Mind-Science-Psychedelics/dp/1594204225" target="_blank">How to Change Your Mind: The New Science of Psychedelics</a> (Michael Pollan)</li>
   <li><a href="https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015CKNWJI" target="_blank">Algorithms to Live By: The Computer Science of Human Decisions</a> (Brian Christian and Tom Griffiths)</li>
   <li><a href="https://www.amazon.com/Eat-Run-Unlikely-Ultramarathon-Greatness/dp/0544002318" target="_blank">Eat & Run: My Unlikely Journey to Ultramarathon Greatness</a> (Scott Jurek)</li>
@@ -121,7 +121,7 @@ author_profile: true
 </ol>
 
 <h2>2017</h2>
-<ol start="77">
+<ol start="79">
   <li><a href="https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034" target="_blank">How to Win Friends & Influence People</a> (Dale Carnegie)</li>
   <li><a href="https://www.amazon.com/One-World-Schoolhouse-Education-Reimagined/dp/1455508381" target="_blank">The One World Schoolhouse: Education Reimagined</a> (Salman Khan)</li>
   <li><a href="https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930" target="_blank">Outliers: The Story of Success</a> (Malcolm Gladwell)</li>
@@ -132,38 +132,38 @@ author_profile: true
 </ol>
 
 <h2>2013</h2>
-<ol start="84">
+<ol start="86">
   <li><a href="https://www.amazon.com/Zero-Maker-Learn-Enough-Anything/dp/1449356435" target="_blank">Zero to Maker: Learn (Just Enough) to Make (Just About) Anything</a> (David Lang)</li>
 </ol>
 
 <h2>2012</h2>
-<ol start="85">
+<ol start="87">
   <li><a href="https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898" target="_blank">The Lean Startup</a> (Eric Ries)</li>
 </ol>
 
 <h2>2011</h2>
-<ol start="86">
+<ol start="88">
   <li><a href="https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537" target="_blank">Steve Jobs</a> (Walter Isaacson)</li>
 </ol>
 
 <h2>2010</h2>
-<ol start="87">
+<ol start="89">
   <li><a href="https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654" target="_blank">The Design of Everyday Things</a> (Donald A. Norman)</li>
 </ol>
 
 <h2>2008</h2>
-<ol start="88">
+<ol start="90">
   <li><a href="https://www.amazon.com/Inside-Steves-Brain-Leander-Kahney/dp/1591845513" target="_blank">Inside Steve's Brain</a> (Leander Kahney)</li>
   <li><a href="https://www.amazon.com/Omnivores-Dilemma-Natural-History-Four/dp/0143038583" target="_blank">The Omnivore's Dilemma: A Natural History of Four Meals</a> (Michael Pollan)</li>
 </ol>
 
 <h2>2007</h2>
-<ol start="90">
+<ol start="92">
   <li><a href="https://www.amazon.com/Zen-Mind-Beginners-Informal-Meditation/dp/1590308492" target="_blank">Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice</a> (Shunryu Suzuki)</li>
   <li><a href="https://www.amazon.com/Cradle-Making-Things-Way-Make/dp/0865475873" target="_blank">Cradle to Cradle: Remaking the Way We Make Things</a> (William McDonough)</li>
 </ol>
 
 <h2>2005</h2>
-<ol start="92">
+<ol start="94">
   <li><a href="https://www.amazon.com/Conversations-God-Uncommon-Dialogue-Book/dp/0399142789" target="_blank">Conversations with God: An Uncommon Dialogue, Book 1</a> (Neale Donald Walsch)</li>
 </ol>
