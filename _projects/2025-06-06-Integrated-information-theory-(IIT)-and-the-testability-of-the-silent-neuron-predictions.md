@@ -17,7 +17,8 @@ citation:
 funding_pending:
 in_preparation:
 submitted:
-in_review: true
+in_review:
+in_revision: true
 ipa:
 funding_awarded:
 talks: "<i>Monash University School of Psychological Sciences (MoNoC/Tsuchiya Lab)</i>, Zoom (May 16th, 2023) (*<b>invited</b>)"

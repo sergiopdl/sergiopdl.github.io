@@ -40,6 +40,8 @@
         <p class="no-margin-bottom"><u>Publication status</u>: (submitted) at <i>{{ post.venue }}</i></p>
       {% elsif post.in_review %}
         <p class="no-margin-bottom"><u>Publication status</u>: [under review] at <i>{{ post.venue }}</i></p>
+      {% elsif post.in_revision %}
+        <p class="no-margin-bottom"><u>Publication status</u>: [under revision] at <i>{{ post.venue }}</i></p>
       {% elsif post.ipa %}
         <p class="no-margin-bottom"><u>Publication status</u>: (in-principle acceptance) at <i>{{ post.venue }}</i></p>
       {% endif %}
@@ -98,7 +100,7 @@
     {% if post.funding_awarded %}                                               <!-- ADDED -->
       <p class="no-margin-top"><u>Funding</u>: {{ post.funding_awarded }}</p>
     {% endif %}
-    {% if post.awards %}                                               
+    {% if post.awards %}
       <p class="no-margin-top"><u>Awards</u>: {{ post.awards }}</p>
     {% endif %}
     {% if post.talks %}
