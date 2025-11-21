@@ -5,7 +5,9 @@ author_profile: true
 ---
 
 <h2>Upcoming</h2>
-<ul></ul>
+<ul>
+<li>2025 (November 21st - 23rd): Berkeley, CA for <a href="https://eleosai.org/conference//" target="_blank">Eleos Conference on AI Consciousness and Welfare</a></li>
+</ul>
 
 <h2>Past</h2>
 <ul>
