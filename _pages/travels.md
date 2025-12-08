@@ -5,12 +5,10 @@ author_profile: true
 ---
 
 <h2>Upcoming</h2>
-<ul>
-<li>2025 (November 21st - 23rd): Berkeley, CA for <a href="https://eleosai.org/conference//" target="_blank">Eleos Conference on AI Consciousness and Welfare</a></li>
-</ul>
 
 <h2>Past</h2>
 <ul>
+  <li>2025 (November 21st - 23rd): Berkeley, CA for <a href="https://eleosai.org/conference//" target="_blank">Eleos Conference on AI Consciousness and Welfare</a></li>
   <li>2025 (July 30th - August 2nd): San Francisco, CA for <a href="https://cognitivesciencesociety.org/cogsci-2025/" target="_blank">COGSCI 2025</a></li>
   <li>2025 (July 6th - 9th): Heraklion, Crete for <a href="https://theassc.org/assc-28/" target="_blank">ASSC 28</a></li>
   <li>2024 (July 2nd - 5th): Tokyo, Japan for <a href="https://theassc.org/assc-27/" target="_blank">ASSC 27</a></li>

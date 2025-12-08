@@ -39,9 +39,9 @@
       {% elsif post.submitted %}
         <p class="no-margin-bottom"><u>Publication status</u>: (submitted) at <i>{{ post.venue }}</i></p>
       {% elsif post.in_review %}
-        <p class="no-margin-bottom"><u>Publication status</u>: [under review] at <i>{{ post.venue }}</i></p>
+        <p class="no-margin-bottom"><u>Publication status</u>: [in review] at <i>{{ post.venue }}</i></p>
       {% elsif post.in_revision %}
-        <p class="no-margin-bottom"><u>Publication status</u>: [under revision] at <i>{{ post.venue }}</i></p>
+        <p class="no-margin-bottom"><u>Publication status</u>: [in revision] at <i>{{ post.venue }}</i></p>
       {% elsif post.ipa %}
         <p class="no-margin-bottom"><u>Publication status</u>: (in-principle acceptance) at <i>{{ post.venue }}</i></p>
       {% endif %}
