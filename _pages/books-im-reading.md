@@ -8,6 +8,8 @@ author_profile: true
 <ul>
   <li><a href="https://www.amazon.com/Better-Never-Have-Been-Existence/dp/0199549265" target="_blank">Better Never to Have Been: The Harm of Coming into Existence</a> (David Benatar)</li>
   <li><a href="https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408" target="_blank">Inspired: How To Create Products Customers Love </a> (Marty Cagan)</li>
+  <li><a href="https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891" target="_blank">The Conscious Mind: In Search of a Fundamental Theory</a> (David J. Chalmers)</li>
+  <li><a href="https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661" target="_blank">Consciousness Explained</a> (Daniel C. Dennett)</li>
 </ul>
 
 <h2>2025</h2>
