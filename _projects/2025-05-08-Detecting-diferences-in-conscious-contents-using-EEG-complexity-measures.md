@@ -4,12 +4,12 @@ collection: projects
 categories:
   - empirical
   - funded
-permalink: /project/2025-05-08-Measuring-conscious-contents-using-EEG-complexity
+permalink: /project/2026-02-09-Measuring-conscious-contents-using-EEG-complexity
 excerpt: 'In this study, we measure participants’ neurophysiological (EEG), subjective, and behavioral responses in states of normal wakefulness to visual and auditory stimuli that vary in granularity of subjective characteristics, such as meaningfulness.
 This study advances our understanding of consciousness by clarifying the relationship between stimulus complexity and measures of brain complexity and phenomenology.'
-date: 2025-05-08
+date: 2026-02-09
 venue: 'Peer Community in Registered Reports'
-citation: '<b>Ponce de Leon, S.</b>, Backer, K. C., Monti, M. M., & Yoshimi, J. (2025). <i>Detecting differences in conscious contents using EEG complexity measures</i>. In principle acceptance of Version 3 by Peer Community in Registered Reports. https://osf.io/kdsau'
+citation: '<b>Ponce de Leon, S.</b>, Backer, K. C., Monti, M. M., & Yoshimi, J. (2026). <i>Detecting differences in conscious contents using EEG complexity measures</i>. In principle acceptance of Version 6 by Peer Community in Registered Reports. https://osf.io/kdsau'
 funding_pending:
 in_preparation:
 submitted:
