@@ -10,8 +10,13 @@ author_profile: true
   <li><a href="https://www.amazon.com/Inspired-Create-Products-Customers-Love/dp/0981690408" target="_blank">Inspired: How To Create Products Customers Love </a> (Marty Cagan)</li>
   <li><a href="https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891" target="_blank">The Conscious Mind: In Search of a Fundamental Theory</a> (David J. Chalmers)</li>
   <li><a href="https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661" target="_blank">Consciousness Explained</a> (Daniel C. Dennett)</li>
-  <li><a href="https://www.amazon.com/World-Appears-Journey-into-Consciousness/dp/198488199X" target="_blank">A World Appears: A Journey into Consciousness</a> (Michael Pollan)</li>
 </ul>
+
+<h2>2026</h2>
+<ol>
+<li><a href="https://www.amazon.com/World-Appears-Journey-into-Consciousness/dp/198488199X" target="_blank">A World Appears: A Journey into Consciousness</a> (Michael Pollan)</li>
+</ol>
+
 
 <h2>2025</h2>
 <ol>

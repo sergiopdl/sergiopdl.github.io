@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 <h2>Upcoming</h2>
+<ul>
+<li>2026 (June 30th - July 3rd): Santiago, Chile for <a href="https://theassc.org/assc-29/" target="_blank">ASSC 2026</a></li>
+</ul>
 
 <h2>Past</h2>
 <ul>
