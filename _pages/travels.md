@@ -8,11 +8,11 @@ author_profile: true
 <ul>
 <li>2026 (July 22nd - July 25th): Rio de Janeiro, Brazil for <i><a href="https://cognitivesciencesociety.org/" target="_blank">The Cognitive Science Society</a></i> <a href="https://cognitivesciencesociety.org/cogsci-2026/" target="_blank">COGSCI 2026</a></li>
 <li>2026 (June 30th - July 3rd): Santiago, Chile for <i><a href="https://theassc.org/" target="_blank">The Association for the Scientific Study of Consciousness</a></i> <a href="https://theassc.org/assc-29/" target="_blank">ASSC 2026</a></li>
-<li>2026 (May 29th - May 31st): Berkeley, California for <i><a href="https://cimc.ai/" target="_blank">California Institute for Machine Consciousness</a></i> <a href="https://machine-consciousness.ai/" target="_blank">MC0001</a></li>
 </ul>
 
 <h2>Past</h2>
 <ul>
+  <li>2026 (May 29th - May 31st): Berkeley, California for <i><a href="https://cimc.ai/" target="_blank">California Institute for Machine Consciousness</a></i> <a href="https://machine-consciousness.ai/" target="_blank">MC0001</a></li>
   <li>2025 (November 21st - 23rd): Berkeley, California for <i><a href="https://eleosai.org/" target="_blank">Eleos AI Research</a></i> <a href="https://eleosai.org/conference/" target="_blank">Conference on AI Consciousness and Welfare</a></li>
   <li>2025 (July 30th - August 2nd): San Francisco, California for <i><a href="https://cognitivesciencesociety.org/" target="_blank">The Cognitive Science Society</a></i> <a href="https://cognitivesciencesociety.org/cogsci-2025/" target="_blank">COGSCI 2025</a></li>
   <li>2025 (July 6th - 9th): Heraklion, Crete for <i><a href="https://theassc.org/" target="_blank">The Association for the Scientific Study of Consciousness</a></i> <a href="https://theassc.org/assc-28/" target="_blank">ASSC 28</a></li>
