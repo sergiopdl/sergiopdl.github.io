@@ -3,7 +3,7 @@
 This is the source code for my personal website, built with [AcademicPages](https://github.com/academicpages/academicpages.github.io), a Jekyll-based template for GitHub Pages.
 
 🔗 **Live site**: [https://sergioponcedeleon.com](https://sergioponcedeleon.com)  
-🧠 PhD Candidate in Cognitive and Information Sciences at the University of California, Merced.
+🧠 Consciousness researcher with a PhD in Cognitive and Information Sciences from the University of California, Merced and Senior Director of Applied AI at PMA Consultants.
 
 ## ✏️ Features
 

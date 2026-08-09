@@ -4,6 +4,7 @@ collection: projects
 categories:
   - empirical
   - funded
+  - posters
 permalink: /project/2026-02-09-Measuring-conscious-contents-using-EEG-complexity
 excerpt: 'In this study, we measure participants’ neurophysiological (EEG), subjective, and behavioral responses in states of normal wakefulness to visual and auditory stimuli that vary in granularity of subjective characteristics, such as meaningfulness.
 This study advances our understanding of consciousness by clarifying the relationship between stimulus complexity and measures of brain complexity and phenomenology.'
@@ -18,8 +19,8 @@ ipa: true
 funding_awarded: "<ul><li>Initiative: <a href='https://www.cos.io/consciousness' target='_blank'>Funding Consciousness Research with Registered Reports (#0593)</a></li>
 <li>Organization: <a href='https://www.templetonworldcharity.org/projects-resources/project-database/0593' target='_blank'>Templeton World Charity Foundation</a> / <a href='https://www.cos.io/' target='_blank'>Center for Open Science</a> / <a href='https://theassc.org/' target='_blank'>ASSC</a></li>
 <li><b>Awarded</b>: $31,936 USD</li></ul>"
-talks:
-posters:
+talks: "<ul><li><i>The Association for Mathematical Consciousness Science (AMCS) Models of Consciousness 2026</i>, Copenhagen, Denmark (October 12th - 16th, 2026)</li></ul>"
+posters: "<ul><li><i>Association for the Scientific Study of Consciousness ASSC 29</i> , Santiago, Chile (June 30th - July 3rd, 2026) <li><i>The Cognitive Science Society CogSci 2026</i>, Rio de Janeiro, Brazil (July 22nd - July 25th)</li></ul>"
 header:
   teaser: "/project_2025-05-08_2.png"
 ---

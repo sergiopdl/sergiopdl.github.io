@@ -20,7 +20,7 @@ ipa:
 funding_awarded:
 talks: "<ul><li><i>University of California, Los Angeles, Department of Psychology (MontiLab)</i>, Zoom (December 11th, 2023) (*<b>invited</b>)</li>
 <li><i>University of California, Merced, Department of Cognitive and Information Sciences Annual Project Mini-Conference</i>, Merced, CA (May 8th, 2023)</li></ul>"
-posters: "<ul><li><i>Association for the Scientific Study of Consciousness 26</i>, New York, NY (June 23rd – 25th, 2023) (<b>awarded 2nd place </b>in the student poster competition)</li>
+posters: "<ul><li><i>Association for the Scientific Study of Consciousness ASSC 26</i>, New York, NY (June 23rd – 25th, 2023) (<b>awarded 2nd place </b>in the student poster competition)</li>
 <li><i>Aalto University School of Science, Department of Neuroscience & Biomedical Engineering 9th Science Factory: TMS–EEG Summer School and Workshop</i>, Espoo, Finland (May 27th – June 2nd, 2023)</li></ul>"
 header:
   teaser: "/project_2023-05-26-1.png"

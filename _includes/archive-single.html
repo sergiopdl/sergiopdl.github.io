@@ -44,6 +44,8 @@
         <p class="no-margin-bottom"><u>Publication status</u>: [in revision] at <i>{{ post.venue }}</i></p>
       {% elsif post.accepted %}
         <p class="no-margin-bottom"><u>Publication status</u>: [accepted] at <i>{{ post.venue }}</i></p>
+      {% elsif post.published %}
+        <p class="no-margin-bottom"><u>Publication status</u>: [published] at <i>{{ post.venue }}</i></p>
       {% elsif post.ipa %}
         <p class="no-margin-bottom"><u>Publication status</u>: (in-principle acceptance) at <i>{{ post.venue }}</i></p>
       {% endif %}

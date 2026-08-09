@@ -52,6 +52,8 @@ layout: default
             <p><u>Publication status</u>: [in revision] at <i>{{ page.venue }}</i></p>
           {% elsif page.accepted %}
             <p><u>Publication status</u>: [accepted] at <i>{{ page.venue }}</i></p>
+          {% elsif page.published %}
+            <p><u>Publication status</u>: [published] at <i>{{ page.venue }}</i></p>
           {% elsif page.ipa %}
             <p><u>Publication status</u>: (in-principle acceptance) at <i>{{ page.venue }}</i></p>
           {% endif %}
