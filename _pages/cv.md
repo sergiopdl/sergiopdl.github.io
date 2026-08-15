@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-redirect_to: /files/CV_SergioPoncedeLeon_09Aug2026.pdf
+redirect_to: /files/CV_SergioPoncedeLeon_14Aug2026.pdf
 author_profile: true
 redirect_from:
   - /resume

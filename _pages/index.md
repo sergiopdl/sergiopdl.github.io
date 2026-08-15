@@ -12,7 +12,7 @@ My current research projects include:
 1. Measuring conscious contents using EEG complexity: see [here](/project/2026-02-09-Measuring-conscious-contents-using-EEG-complexity), [here](/project/2023-05-26-Detecting-differences-in-conscious-contents-using-EEG-complexity-measures-proof-of-concept), and [here](project/2022-05-27-Simulating-the-perturbational-complexity-index-at-the-edge-of-chaos)
 2. Philosophical analysis of integrated information theory (IIT): see [here](/project/2025-06-06-Integrated-information-theory-(IIT)-and-the-testability-of-the-silent-neuron-predictions) and [here](project/2025-06-07-Does-phenomenology-support-the-axiomatic-framework-of-integrated-information-theory-(IIT))
 3. [Testing IIT using transcranial magnetic stimulation](/project/2025-06-08-Does-brain-activity-cause-consciousness-a-tms-experiment)
-4. Societal impacts of conscious AI
+4. [Investigating complexity measures of consciousness in LLMs and artificial neural networks](project/2022-05-27-Simulating-the-perturbational-complexity-index-at-the-edge-of-chaos)
 
 You can see most of my projects [here](/projects).
 
