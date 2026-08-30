@@ -9,6 +9,7 @@ author_profile: true
   <li>2026 (September 18th-20th): Berkeley, California for <i><a href="https://eleosai.org/" target="_blank">Eleos AI Research</a></i> <a href="https://eleosai.org/conference/" target="_blank">Eleos Conference on AI Consciousness and Welfare: ConCon 2026</a></li>
   <li>2026 (September 29th-October 3rd): Hokkaido, Japan for <a href="https://qstr2026shinocrates.eskeeper.workers.dev/" target="_blank">Shin Socrates 2026</a></li>
   <li>2026 (October 12th-16th): Copenhagen, Denmark for <i><a href="https://amcs-community.org/" target="_blank">The Association for Mathematical Consciousness Science (AMCS)</a></i> <a href="https://amcs-community.org/events/moc7-2026/" target="_blank">Models of Consciousness 2026</a></li>
+  <li>2026 (December 2nd-5th): Nairobi, Kenya for <i><a href="https://cifar.ca/" target="_blank">The Canadian Institute for Advanced Research (CIFAR)</a></i> <a href="https://cifar.ca/next-generation/cifar-neuroscience-of-consciousness-winter-school//" target="_blank">CIFAR Neuroscience of Consciousness Winter School</a></li>
 </ul>
 
 <h2>Past</h2>
