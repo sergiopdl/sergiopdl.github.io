@@ -16,7 +16,7 @@ My current research projects include:
 
 You can see most of my projects [here](/projects).
 
-I am also a Senior Director of Applied AI at <a href="https://pmaconsultants.com/" target="_blank" rel="noopener noreferrer">PMA Consultants</a>.
+I am also a Senior Director of Applied AI at <a href="https://pmaconsultants.com/" target="_blank" rel="noopener noreferrer">PMA Consultants</a>, and a Research Consultant at the <a href="https://advancedconsciousness.org/" target="_bkank" rel="noopener noreferrer">Institute for Advanced Consciousness Studies</a>. 
 
 Before doing my PhD, I studied Human-Computer Interaction, data visualization, and applied machine learning at the University of Michigan <a href="https://www.si.umich.edu/programs/master-science-information" target="_blank" rel="noopener noreferrer">School of Information</a>, and I was a Senior Director of UX & Product Management for a <a href="https://pmatechnologies.com/products" target="_blank" rel="noopener noreferrer">suite of project management software applications</a>. You can learn more about me [here](/about-me).
 

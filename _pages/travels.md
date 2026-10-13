@@ -6,14 +6,14 @@ author_profile: true
 
 <h2>Upcoming</h2>
 <ul>
-  <li>2026 (September 18th-20th): Berkeley, California for <i><a href="https://eleosai.org/" target="_blank">Eleos AI Research</a></i> <a href="https://eleosai.org/conference/" target="_blank">Eleos Conference on AI Consciousness and Welfare: ConCon 2026</a></li>
-  <li>2026 (September 29th-October 3rd): Hokkaido, Japan for <a href="https://qstr2026shinocrates.eskeeper.workers.dev/" target="_blank">Shin Socrates 2026</a></li>
-  <li>2026 (October 12th-16th): Copenhagen, Denmark for <i><a href="https://amcs-community.org/" target="_blank">The Association for Mathematical Consciousness Science (AMCS)</a></i> <a href="https://amcs-community.org/events/moc7-2026/" target="_blank">Models of Consciousness 2026</a></li>
   <li>2026 (December 2nd-5th): Nairobi, Kenya for <i><a href="https://cifar.ca/" target="_blank">The Canadian Institute for Advanced Research (CIFAR)</a></i> <a href="https://cifar.ca/next-generation/cifar-neuroscience-of-consciousness-winter-school//" target="_blank">CIFAR Neuroscience of Consciousness Winter School</a></li>
 </ul>
 
 <h2>Past</h2>
 <ul>
+  <li>2026 (October 12th-16th): Copenhagen, Denmark for <i><a href="https://amcs-community.org/" target="_blank">The Association for Mathematical Consciousness Science (AMCS)</a></i> <a href="https://amcs-community.org/events/moc7-2026/" target="_blank">Models of Consciousness 2026</a></li>
+  <li>2026 (September 29th-October 3rd): Hokkaido, Japan for <a href="https://qstr2026shinocrates.eskeeper.workers.dev/" target="_blank">Shin Socrates 2026</a></li>
+  <li>2026 (September 18th-20th): Berkeley, California for <i><a href="https://eleosai.org/" target="_blank">Eleos AI Research</a></i> <a href="https://eleosai.org/conference/" target="_blank">Eleos Conference on AI Consciousness and Welfare: ConCon 2026</a></li>
   <li>2026 (July 22nd-July 25th): Rio de Janeiro, Brazil for <i><a href="https://cognitivesciencesociety.org/" target="_blank">The Cognitive Science Society</a></i> <a href="https://cognitivesciencesociety.org/cogsci-2026/" target="_blank">COGSCI 2026</a></li>
   <li>2026 (June 30th-July 3rd): Santiago, Chile for <i><a href="https://theassc.org/" target="_blank">The Association for the Scientific Study of Consciousness</a></i> <a href="https://theassc.org/wp-content/uploads/2026/07/Podium-ASSC-2026-program-v105-July-1v.3.pdf" target="_blank">ASSC 29</a></li>
   <li>2026 (May 29th-May 31st): Berkeley, California for <i><a href="https://cimc.ai/" target="_blank">California Institute for Machine Consciousness</a></i> <a href="https://machine-consciousness.ai/" target="_blank">MC0001</a></li>

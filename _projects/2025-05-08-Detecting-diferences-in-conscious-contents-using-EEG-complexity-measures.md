@@ -10,7 +10,7 @@ excerpt: 'In this study, we measure participants’ neurophysiological (EEG), su
 This study advances our understanding of consciousness by clarifying the relationship between stimulus complexity and measures of brain complexity and phenomenology.'
 date: 2026-02-09
 venue: 'Peer Community in Registered Reports'
-citation: '<b>Ponce de Leon, S.</b>, Backer, K. C., Monti, M. M., & Yoshimi, J. (2026). <i>Detecting differences in conscious contents using EEG complexity measures</i>. In principle acceptance of Version 6 by Peer Community in Registered Reports. https://osf.io/kdsau'
+citation: '<b>Ponce de Leon, S.</b>, Backer, K. C., Monti, M. M., & Yoshimi, J. (2026). <i>Detecting differences in conscious contents using EEG complexity measures</i>. In principle acceptance of Version 6 by Peer Community in Registered Reports. https://osf.io/msnzp'
 funding_pending:
 in_preparation:
 submitted:

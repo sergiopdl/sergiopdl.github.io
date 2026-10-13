@@ -15,7 +15,7 @@ In 2026, I completed my PhD in <a href="https://cogsci.ucmerced.edu/graduate-pro
 
 I'm now a consciousness researcher, using [experimental](/categories/empirical), [philosophical](/categories/philosophical), and [computational](/categories/computational) approaches to study the mind. You can learn more about my research [here](/projects).
 
-I'm also a Senior Director of Applied AI at <a href="https://pmaconsultants.com/" target="_blank" rel="noopener noreferrer">PMA Consultants</a>.
+I'm also a Senior Director of Applied AI at <a href="https://pmaconsultants.com/" target="_blank" rel="noopener noreferrer">PMA Consultants</a>, and a Research Consultant at the <a href="https://advancedconsciousness.org/" target="_bkank" rel="noopener noreferrer">Institute for Advanced Consciousness Studies</a>. 
 
 <h2>For funsies</h2>
 When I'm not doing research or reading, I am an avid runner, adventure traveler, and photographer. Stay tuned for my photography portfolio!
