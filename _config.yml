@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sergio Ponce de Leon"
+title                    : "Sergio Ponce de Leon, PhD"
 title_separator          : "-"
-name                     : &name "Sergio Ponce de Leon"
+name                     : &name "Sergio Ponce de Leon, PhD"
 description              : &description "personal description"
 url                      : https://sergioponcedeleon.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,12 +22,12 @@ repository               : "sergiopdl/sergiopdl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot2.png"
   name             : "Sergio Ponce de Leon"
   pronouns         : # example: "she/her"
-  bio              : "Consciousness researcher w/ a PhD in Cognitive & Information Sciences from the University of California, Merced"
+  bio              : "Consciousness researcher with a PhD in cognitive science and a Master's in human-computer interaction."
   location         : "San Francisco Bay Area, CA"
-  employer         : "PMA Consultants"
+  employer         : "PMA Consultants | IACS"
   uri              : # URL
   email            : "juansergiopdl@gmail.com"
 

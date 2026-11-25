@@ -24,7 +24,7 @@ published: true
 ipa:
 funding_awarded:
 talks: "<i>Monash University School of Psychological Sciences (MoNoC/Tsuchiya Lab)</i>, Zoom (May 16th, 2023) (*<b>invited</b>)"
-posters: "<i>Association for the Scientific Study of Consciousness ASSC 27</i>, Tokyo, Japan (July 2nd - 5th, 2024)"
+posters: "<i>Association for the Scientific Study of Consciousness ASSC 27</i>, Tokyo, Japan (July 2nd-5th, 2024)"
 header:
   teaser: "/project_2025-06-06_4.png"
 ---

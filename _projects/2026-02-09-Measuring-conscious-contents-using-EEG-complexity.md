@@ -19,8 +19,10 @@ ipa: true
 funding_awarded: "<ul><li>Initiative: <a href='https://www.cos.io/consciousness' target='_blank'>Funding Consciousness Research with Registered Reports (#0593)</a></li>
 <li>Organization: <a href='https://www.templetonworldcharity.org/projects-resources/project-database/0593' target='_blank'>Templeton World Charity Foundation</a> / <a href='https://www.cos.io/' target='_blank'>Center for Open Science</a> / <a href='https://theassc.org/' target='_blank'>ASSC</a></li>
 <li><b>Awarded</b>: $31,936 USD</li></ul>"
-talks: "<ul><li><i>The Association for Mathematical Consciousness Science (AMCS) Models of Consciousness 2026</i>, Copenhagen, Denmark (October 12th - 16th, 2026)</li></ul>"
-posters: "<ul><li><i>Association for the Scientific Study of Consciousness ASSC 29</i> , Santiago, Chile (June 30th - July 3rd, 2026) <li><i>The Cognitive Science Society CogSci 2026</i>, Rio de Janeiro, Brazil (July 22nd - July 25th)</li></ul>"
+talks: "<ul><li><i>The Association for Mathematical Consciousness Science (AMCS) Models of Consciousness 2026</i>, Copenhagen, Denmark (October 12th-16th, 2026)</li></ul>"
+posters: "<ul><li><i>Association for the Scientific Study of Consciousness ASSC 29</i> , Santiago, Chile (June 30th-July 3rd, 2026)
+<li><i>The Cognitive Science Society CogSci 2026</i>, Rio de Janeiro, Brazil (July 22nd-July 25th, 2026)</li>
+<li><i>Shin-Socrates</i>, Lake Toya, Japan (September 29th-October 3rd, 2026)</li></ul>"
 header:
   teaser: "/project_2025-05-08_2.png"
 ---
